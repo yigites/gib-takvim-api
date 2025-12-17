@@ -1,0 +1,32 @@
+name: Update GIB Vergi Takvimi
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm install
+      - run: npm run update
+
+      - name: Commit & Push
+        env:
+          PUSH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add .
+          git commit -m "Auto update GIB vergi takvimi" || echo "No changes"
+          git push https://x-access-token:${PUSH_TOKEN}@github.com/${{ github.repository }} HEAD:main

@@ -1,0 +1,14 @@
+{
+  "name": "gib-vergi-takvimi-api",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "lint": "node --check scraper.js rss.js",
+    "daily": "node daily-scraper.js",
+    "dev": "node scraper.js",
+    "update": "node daily-scraper.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}

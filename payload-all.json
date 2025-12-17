@@ -1,0 +1,11 @@
+{
+  "globalOperator": "AND",
+  "filterRange": "monthly",
+  "startDate": "2025-01-01",
+  "endDate": "2025-12-31",
+  "rangeSelectActive": false,
+  "selectedMonths": [],
+  "selectedCategories": [],
+  "selectedTaxTypes": [],
+  "searchRequestListDTOS": []
+}
