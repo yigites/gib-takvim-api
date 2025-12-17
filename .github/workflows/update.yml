@@ -2,7 +2,9 @@ name: Update GIB Vergi Takvimi
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    # Her gün sabah saat 09:00'da çalışır (UTC saatiyle 06:00)
+    # Türkiye saati (UTC+3) olduğu için 06:00 yazarsak TR saatiyle 09:00 olur.
+    - cron: "0 6 * * *" 
   workflow_dispatch:
 
 jobs:
