@@ -1,37 +1,48 @@
 # GİB Vergi Takvimi API
 
-Gelir İdaresi Başkanlığı'nın `vergiTakvimi/specification/listAll` API'sinden çekilen verilerin JSON hâlinde sunulduğu hafif bir servis.
+Bu proje Gelir İdaresi Başkanlığı'nın `vergiTakvimi/specification/listAll` endpoint'ini düzenli olarak çağırarak JSON çıktıyı GitHub Pages'e yayımlayan hafif bir servis sunar. Ekstra bir sunucuya gerek kalmadan `data/takvim.json` dosyasını güncel tutar ve veriyi tüketen uygulamalar, doğrudan bu URL'i JSON API gibi kullanabilir.
 
-## 🚀 Amaç
+## Yapılanlar
 
-- `payload-all.json` içinde tanımlı filtreyle tüm takvim maddelerini topluca almak
-- `data/takvim.json` içinde `metadata` ve `items` yapılarını saklayıp GitHub Pages üzerinden sunmak
-- GitHub Actions aracılığıyla düzenli güncelleme sağlamak
+- `payload-all.json` içindeki filtreyle GİB'in vergi takvimi maddelerini topluca çeker.
+- `daily-scraper.js` ve `scraper.js` içinde tanımlı POST gövdeleriyle `listAll` endpoint'ine istek gönderip yalnızca cari gün içeriğini alır.
+- `data/takvim.json` içinde `metadata` (fetch zamanı, sayfa infosu) ve `items` (takvim girdileri) yapısını tutar.
+- Saatlik GitHub Actions akışları `npm run update` komutunu çalıştırarak `data/takvim.json`'u ana dala yazdırır ve Pages çıktısını güncel tutar.
 
-## 🧰 Kurulum ve manuel güncelleme
+## Kurulum
 
-```bash
-git clone https://github.com/YIGITES/gib-vergitakvimi-api.git
-cd gib-vergitakvimi-api
-npm install
-npm run update
-```
+1. Depoyu klonlayın ve bağımlılıkları kurun:
+   ```bash
+   git clone https://github.com/yigites/gib-vergitakvimi-api.git
+   cd gib-vergitakvimi-api
+   npm install
+   ```
+2. `payload-all.json` içindeki `filterRange`, `selectedCategories`, `selectedTaxTypes` gibi alanları ihtiyaç duyduğunuz tarihlere göre ayarlayın.
+3. İlk veriyi çekmek için:
+   ```bash
+   npm run update
+   ```
 
-Bu işlem:
+`npm run update` komutu `daily-scraper.js` ile aynı script'i çalıştırır; POST gövdesini `startdate < gün sonu` ve `stopdate > gün başı` şekilde ayarlayarak GİB'ten ilgili takvim maddelerini çeker.
 
-1. `npm run update` (ki bu script `daily-scraper.js` ile aynı) `startdate < gün sonu`, `stopdate > gün başı` koşullarını içeren POST gövdesiyle `listAll` endpoint'ini çağırır ve yalnızca o gün ekranında görünen maddeleri alır.
-2. İstersen `payload-all.json` içeriğini kendi başına `node scraper.js` ile kullanarak tüm takvim girdilerini biriktirebilirsin; bu araç daha geniş raporlar için elimizde duruyor ama sürekli GitHub Actions ile çalışmıyor.
-3. Geriye kalan adım yine `data/takvim.json` dosyasına `metadata` (fetch zamanı, page size gibi) ve `items` (takvim girdileri) olarak yazmak.
+## Kullanım örnekleri
 
-## 🗓 Günlük takvim
+- `npm run daily -- --date=2025-12-14`: belirtilen tarih için `data/takvim.json` dosyasını günceller (varsayılan olarak bugünün tarihi kullanılır).
+- `npm run daily -- --output=takvim-gunluk.json`: farklı çıktılar yazmak için `--output` bayrağını kullanın.
+- `node scraper.js`: `payload-all.json` filtresini kullanarak tüm takvim maddelerini çekip `data/takvim.json`'a yazar.
 
-`npm run daily -- --date=2025-12-14` gibi bir komut günlük filtreyi çalıştırır ve varsayılan olarak `/data/takvim.json` dosyasını günceller; tarih belirtmezseniz bugünün tarihi kullanılır.
+## Proje yapısı
 
-İstersen `--output=takvim-gunluk.json` gibi bir bayrak vererek farklı bir dosyaya yazdırabilirsin, ama API olarak bu dosyayı kullanacaksan varsayılan `takvim.json` sabit kalır. Komut tarayıcıdan çağrılan filtreyle aynı gövdeyi gönderir: `startdate < {gün sonu}` ve `stopdate > {gün başı}` koşulları sayesinde sadece ekran görüntüsündeki gibi o gün aktif olan maddeler döner. Üretken dosya da `metadata` içinde `requestedDay` içerir.
+- `daily-scraper.js`, `scraper.js`: GİB API'sine yapılacak POST isteklerini yöneten scriptler.
+- `capture-tax.js`, `vergi-page.js`, `inspect.js`, `tax-calendar.html`: elde edilen veriyi doğrulama ve görselleştirme araçları.
+- `payload-all.json`: takvim filtresi ve istek gövdesi.
+- `data/`: `takvim.json` ve (isteğe bağlı) `takvim-gunluk.json` gibi çıktılar.
+- `.github/workflows/update.yml`: saatlik `npm run update` çalıştırır ve değişiklikleri ana dala iter.
+- `.github/workflows/pages.yml`: `main` dalındaki `data/` klasörünü GitHub Pages'e dağıtır.
 
-## ℹ️ Veri formatı
+## JSON çıktısı yapısı
 
-`data/takvim.json` şöyle bir yapıya sahiptir:
+`data/takvim.json` şu yapıya sahiptir:
 
 ```json
 {
@@ -57,33 +68,34 @@ Bu işlem:
 }
 ```
 
-Alanlar:
+`items` içindeki her obje şu alanları içerir:
 
-- `title`, `description`: takvimde gösterilen metin
-- `startdate`/`stopdate`: dönem aralığı
-- `taxType`, `subject`, `periodDescription`: sınıflandırma bilgileri
-- `priority`: kritik günler için 1, diğerleri 2 olarak geliyor
+- `title`, `description`: GİB takvimindeki metinler.
+- `startdate`, `stopdate`: dönemin başlangıç ve bitiş tarihleri.
+- `taxType`, `subject`, `periodDescription`: sınıflandırma bilgileri.
+- `priority`: kritik öğeleri öne çıkarmak için 1/2 değerleri.
 
-## 📡 API endpoint
+## Yayınlama
 
-GitHub Pages üzerinden yayımlanan dosya her güncellemede yenilenir:
+GitHub Actions ana daldaki `data/takvim.json` değişimlerini `https://yigites.github.io/gib-vergitakvimi-api/data/takvim.json` adresine dağıtır. Bu URL'i kendi uygulamanızda JSON API gibi kullanabilirsiniz.
 
-- JSON: `https://yigites.github.io/gib-vergitakvimi-api/data/takvim.json`
+---
 
-## ⚙️ GitHub Actions akışı
+## ⚖️ Yasal Uyarı / Disclaimer
 
-- `.github/workflows/update.yml`: her saat `npm run update` çalıştırır ve değişiklikleri ana dala ittirir
-- `.github/workflows/pages.yml`: `main` dalındaki değişimi GitHub Pages'a konuşlandırır
+Bu proje, Gelir İdaresi Başkanlığı'nın vergi takvimi verilerini kullanan **gayri resmi (unofficial)** bir araçtır.
 
-## ⚠️ Notlar
+* **Veri Sahipliği:** Tüm takvim girdileri orijinal GİB sitesine aittir; bu repo sadece düzenli olarak çekip tek dosyada toplar.
+* **Sorumluluk Reddi:** Verilerin doğruluğu ve güncelliği GİB sunucularına bağlıdır. Kritik kararlar için her zaman resmi GİB sayfalarını kullanın.
+* **Kullanım Koşulları:** Bu script'ten gelen istekler GİB'in kullanım koşullarına ve `robots.txt` kurallarına uygun olmalıdır.
 
-- `payload-all.json` içindeki filtreleri güncel takvim dönemiyle uyumlu hale getirirseniz yeniden `npm run update` çalıştırmanız yeterlidir
-- GİB API'si alan adlarını değiştirdiğinde `scraper.js` içindeki `resultContainer` yapısına göre müdahale etmeniz gerekir
+---
 
-## 📦 API kullanımı ve GitHub akışı
+### 🌍 English Version
 
-- Depoyu ilk kez alırken `npm install` çalıştırın, ardından `npm run update` ile `payload-all.json` içindeki filtresiyle tüm takvim maddelerini çekip `data/takvim.json` dosyasına yazdırın. Bu JSON dosyasını GitHub Pages üzerinden `https://yigites.github.io/gib-vergitakvimi-api/data/takvim.json` adresinde yayınlıyoruz; tüketiciler bu adresi kendi uygulamalarında JSON API gibi kullanabilir.
-- Kodda tarih filtresini özelleştirmek isterseniz `payload-all.json` içindeki `filterRange`, `selectedCategories`, `selectedTaxTypes` gibi alanları GİB sitesindeki `requestBody` örneğine göre güncelleyin ve `npm run update` ile tekrar çekin.
-- Günlük görünüm (`Günlük`, `İlk günü bugün olanlar` gibi paneller) için `npm run daily -- --date=YYYY-MM-DD` çalıştırın. Bu komut varsayılan olarak `data/takvim.json` dosyasını tekrar yazar; sabit tutmak istersen `--output=takvim-gunluk.json` bayrağıyla alternatif hedef belirtebilirsiniz. Script, tarayıcıdaki filtreyle aynı POST gövdesini gönderir (`startdate < gün sonu`, `stopdate > gün başı`).
-- GitHub Actions içinde `.github/workflows/update.yml` saatlik `npm run update`, `.github/workflows/pages.yml` ise `main` dalındaki `data/` dizinini GitHub Pages'a dağıtır; ilgili akışların sorunsuz çalışması için ana dalda `data/takvim.json` ve gerektiğinde diğer çıktılar tutulmalı.
+This is an **unofficial** scraper that aggregates the Turkish Revenue Administration's calendar data.
+
+* **Data Ownership:** All calendar entries belong to GİB.
+* **No Warranty:** No guarantee is provided for timeliness or accuracy; verify with the official GİB portal.
+* **Liability:** Use of this repository is at your own risk. The maintainer is not liable for disruptions caused by scraping failures or misuse.
 
