@@ -1,23 +1,11 @@
 {
   "metadata": {
-    "fetchedAt": "05-01-2026",
-    "requestedDay": "05-01-2026",
-    "totalItems": 60,
+    "fetchedAt": "12-01-2026",
+    "requestedDay": "12-01-2026",
+    "totalItems": 59,
     "pageSize": 1000
   },
   "items": [
-    {
-      "id": 2001,
-      "title": "Noterlerce Yapılan Makbuz Karşılığı Ödemelerin Beyan ve Ödemesi",
-      "description": "Aralık 2025 Dönemine Ait Noterlerce Yapılan Makbuz Karşılığı Ödemelere Ait Beyannamenin Verilmesi ve Ödemesi",
-      "startdate": "02-01-2026",
-      "stopdate": "08-01-2026",
-      "priority": 2,
-      "taxType": "Noterlerce Tahsil Edilen Vergi Resim ve Harçlar ile Değerli Kağıt Bedelleri",
-      "periodDescription": "Aralık 2025 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
     {
       "id": 1921,
       "title": "Elektronik Defter Beratları",
@@ -52,18 +40,6 @@
       "taxType": "Vergi Usul Kanunu",
       "periodDescription": "Eylül 2025 Dönemi",
       "subject": "Berat",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 2008,
-      "title": "Kaynak Kullanımını Destekleme Fonu Bildirim ve Ödemesi",
-      "description": "Aralık 2025 Dönemine Ait Kaynak Kullanımını Destekleme Fonu Kesintisi Bildirimi ve Ödemesi",
-      "startdate": "01-01-2026",
-      "stopdate": "15-01-2026",
-      "priority": 2,
-      "taxType": "Kaynak Kullanımını Destekleme Fonu ",
-      "periodDescription": "Aralık 2025 Dönemi",
-      "subject": "Bildirim ve Ödeme",
       "startDateBeforeStopDate": true
     },
     {
@@ -146,6 +122,18 @@
       "stopdate": "15-01-2026",
       "priority": 2,
       "taxType": "Harçlar Kanunu",
+      "periodDescription": "Aralık 2025 Dönemi",
+      "subject": "Bildirim ve Ödeme",
+      "startDateBeforeStopDate": true
+    },
+    {
+      "id": 2008,
+      "title": "Kaynak Kullanımını Destekleme Fonu Bildirim ve Ödemesi",
+      "description": "Aralık 2025 Dönemine Ait Kaynak Kullanımını Destekleme Fonu Kesintisi Bildirimi ve Ödemesi",
+      "startdate": "01-01-2026",
+      "stopdate": "15-01-2026",
+      "priority": 2,
+      "taxType": "Kaynak Kullanımını Destekleme Fonu ",
       "periodDescription": "Aralık 2025 Dönemi",
       "subject": "Bildirim ve Ödeme",
       "startDateBeforeStopDate": true
