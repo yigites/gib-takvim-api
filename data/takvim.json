@@ -1,167 +1,11 @@
 {
   "metadata": {
-    "fetchedAt": "02-02-2026",
-    "requestedDay": "02-02-2026",
-    "totalItems": 66,
+    "fetchedAt": "09-02-2026",
+    "requestedDay": "09-02-2026",
+    "totalItems": 54,
     "pageSize": 1000
   },
   "items": [
-    {
-      "id": 2978,
-      "title": "Turizm Payı Beyan ve Ödemesi",
-      "description": "Ekim-Kasım-Aralık 2025 Dönemine Ait Turizm Payının Beyanı ve Ödemesi",
-      "startdate": "01-01-2026",
-      "stopdate": "02-02-2026",
-      "priority": 2,
-      "taxType": "Türkiye Turizm Tanıtım ve Geliştirme Ajansı Hakkında Kanun",
-      "periodDescription": "Ekim-Kasım-Aralık 2025 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 2979,
-      "title": "Haberleşme Vergisi Beyan ve Ödemesi",
-      "description": "Aralık 2025 Dönemine Ait Haberleşme Vergisinin Beyanı ve Ödemesi",
-      "startdate": "01-01-2026",
-      "stopdate": "02-02-2026",
-      "priority": 2,
-      "taxType": "Haberleşme Vergisi",
-      "periodDescription": "Aralık 2025 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 2980,
-      "title": "Dijital Hizmet Vergisi Beyan ve Ödemesi",
-      "description": "Aralık 2025 Dönemine Ait Dijital Hizmet Vergisinin Beyanı ve Ödemesi",
-      "startdate": "01-01-2026",
-      "stopdate": "02-02-2026",
-      "priority": 2,
-      "taxType": "Dijital Hizmet Vergisi",
-      "periodDescription": "Aralık 2025 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 2981,
-      "title": "7440 Sayılı Kanunun Taksit Ödemesi ",
-      "description": "7440 Sayılı Kanun Uyarınca Ödenmesi Gereken 32. Taksit Ödemesi",
-      "startdate": "01-01-2026",
-      "stopdate": "02-02-2026",
-      "priority": 1,
-      "taxType": "7440 Sayılı Kanun",
-      "periodDescription": "32. Taksit",
-      "subject": "Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 2982,
-      "title": "Aracı Hizmet Sağlayıcıları, İnternet Reklamcılığı Hizmet Aracıları ile Kargo ve Lojistik İşletmelerinin Bildirimi ",
-      "description": "Aralık 2025 Dönemine Ait 464 Sıra No.lu VUKGT Kapsamında Bildirimde Bulunma Zorunluluğu Getirilen Aracı Hizmet Sağlayıcıları, İnternet Reklamcılığı Hizmet Aracıları ile Kargo ve Lojistik İşletmeleri Tarafından Bildirim Verilmesi",
-      "startdate": "01-01-2026",
-      "stopdate": "02-02-2026",
-      "priority": 2,
-      "taxType": "Vergi Usul Kanunu",
-      "periodDescription": "Aralık 2025 Dönemi",
-      "subject": "Bildirim",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 2975,
-      "title": "Yıllık Harçların Ödemesi",
-      "description": "Yıllık Harçların Ödemesi",
-      "startdate": "01-01-2026",
-      "stopdate": "02-02-2026",
-      "priority": 2,
-      "taxType": "Harçlar Kanunu",
-      "periodDescription": "2026 Yılı",
-      "subject": "Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 2976,
-      "title": "Yasal Defterlere İlişkin Ara Tasdik",
-      "description": "2025 Yılında Kullanılan Defterlerin 2026 Yılında da Kullanılmak İstenmesi Halinde Yasal Defterlere İlişkin Ara Tasdik",
-      "startdate": "01-01-2026",
-      "stopdate": "02-02-2026",
-      "priority": 2,
-      "taxType": "Vergi Usul Kanunu",
-      "periodDescription": "2026 Yılı",
-      "subject": "Diğer",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 2977,
-      "title": "Kurumlar Vergisi Mükelleflerinin Turizm Payı Beyan ve Ödemesi",
-      "description": "Aralık 2025 Dönemine Ait Kurumlar Vergisi Mükellefleri İçin Turizm Payının Beyanı ve Ödemesi",
-      "startdate": "01-01-2026",
-      "stopdate": "02-02-2026",
-      "priority": 2,
-      "taxType": "Türkiye Turizm Tanıtım ve Geliştirme Ajansı Hakkında Kanun",
-      "periodDescription": "Aralık 2025 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 2983,
-      "title": "Taşınmaz ve Motorlu Taşıt İlanlarını Platformları Üzerinden Yayımlayanlar ile Günübirlik Konut Kiralama İşini Platformları Üzerinden Sağlayanların Bildirimi",
-      "description": "Aralık 2025 Dönemine Ait 538 Sıra No.lu VUKGT Kapsamında Taşınmaz (Satış/Kiralama) ve Motorlu Taşıt (Satış) İlanlarını Platformları Üzerinden Yayımlayanlar ile Günübirlik Konut Kiralama İşini Platformları Üzerinden Sağlayanlarca Bildirim Verilmesi",
-      "startdate": "01-01-2026",
-      "stopdate": "02-02-2026",
-      "priority": 2,
-      "taxType": "Vergi Usul Kanunu",
-      "periodDescription": "Aralık 2025 Dönemi",
-      "subject": "Bildirim",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 2973,
-      "title": "Geri Kazanım Katılım Payı Beyan ve Ödemesi",
-      "description": "Ekim-Kasım-Aralık 2025 Dönemine Ait Geri Kazanım Katılım Payı Beyannamesinin Verilmesi ve Ödemesi",
-      "startdate": "01-01-2026",
-      "stopdate": "02-02-2026",
-      "priority": 2,
-      "taxType": "Çevre Kanunu,Vergi Usul Kanunu",
-      "periodDescription": "Ekim-Kasım-Aralık 2025 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 2974,
-      "title": "Motorlu Taşıtlar Vergisi Taksit Ödemesi",
-      "description": "Motorlu Taşıtlar Vergisinin 1. Taksit Ödemesi",
-      "startdate": "01-01-2026",
-      "stopdate": "02-02-2026",
-      "priority": 1,
-      "taxType": "Motorlu Taşıtlar Vergisi ",
-      "periodDescription": "2026 Yılı 1. Taksit",
-      "subject": "Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 2996,
-      "title": "Noterlerce Yapılan Makbuz Karşılığı Ödemelerin Beyan ve Ödemesi",
-      "description": "Ocak 2026 Dönemine Ait Noterlerce Yapılan Makbuz Karşılığı Ödemelere Ait Beyannamenin Verilmesi ve Ödemesi",
-      "startdate": "02-02-2026",
-      "stopdate": "06-02-2026",
-      "priority": 2,
-      "taxType": "Noterlerce Tahsil Edilen Vergi Resim ve Harçlar ile Değerli Kağıt Bedelleri",
-      "periodDescription": "Ocak 2026 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 2902,
-      "title": "Elektronik Defter Beratları",
-      "description": "Aylık Yükleme Tercihinde Bulunmuş Gelir Vergisi Mükelleflerinin Ekim 2025 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
-      "startdate": "01-11-2025",
-      "stopdate": "10-02-2026",
-      "priority": 1,
-      "taxType": "Vergi Usul Kanunu",
-      "periodDescription": "Ekim 2025 Dönemi",
-      "subject": "Berat",
-      "startDateBeforeStopDate": true
-    },
     {
       "id": 2997,
       "title": "Özel Tüketim Vergisi Beyan ve Ödemesi",
@@ -175,11 +19,11 @@
       "startDateBeforeStopDate": true
     },
     {
-      "id": 2903,
+      "id": 2902,
       "title": "Elektronik Defter Beratları",
-      "description": "Aylık Yükleme Tercihinde Bulunmuş Diğer Mükelleflerin Ekim 2025 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
+      "description": "Aylık Yükleme Tercihinde Bulunmuş Gelir Vergisi Mükelleflerinin Ekim 2025 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
       "startdate": "01-11-2025",
-      "stopdate": "16-02-2026",
+      "stopdate": "10-02-2026",
       "priority": 1,
       "taxType": "Vergi Usul Kanunu",
       "periodDescription": "Ekim 2025 Dönemi",
@@ -259,6 +103,18 @@
       "startDateBeforeStopDate": true
     },
     {
+      "id": 2903,
+      "title": "Elektronik Defter Beratları",
+      "description": "Aylık Yükleme Tercihinde Bulunmuş Diğer Mükelleflerin Ekim 2025 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
+      "startdate": "01-11-2025",
+      "stopdate": "16-02-2026",
+      "priority": 1,
+      "taxType": "Vergi Usul Kanunu",
+      "periodDescription": "Ekim 2025 Dönemi",
+      "subject": "Berat",
+      "startDateBeforeStopDate": true
+    },
+    {
       "id": 2998,
       "title": "Özel Tüketim Vergisi Beyan ve Ödemesi",
       "description": "Ocak 2026 Dönemine Ait Alkollü İçecekler, Alkolsüz İçecekler, Tütün Mamulleri ve Makaronlara İlişkin Özel Tüketim Vergisinin Beyanı ve Ödemesi",
@@ -267,6 +123,18 @@
       "priority": 1,
       "taxType": "Özel Tüketim Vergisi",
       "periodDescription": "Öcak 2026 Dönemi",
+      "subject": "Beyan ve Ödeme",
+      "startDateBeforeStopDate": true
+    },
+    {
+      "id": 2984,
+      "title": "Gelir Geçici Vergisi Beyan ve Ödemesi",
+      "description": "2025 IV. Geçici Vergi Dönemine (Ekim-Kasım-Aralık) Ait Gelir Geçici Vergisinin Beyanı ve Ödemesi",
+      "startdate": "01-01-2026",
+      "stopdate": "17-02-2026",
+      "priority": 1,
+      "taxType": "Gelir Geçici Vergisi",
+      "periodDescription": "2025 IV. Geçici Vergi Dönemi (Ekim-Kasım-Aralık) ",
       "subject": "Beyan ve Ödeme",
       "startDateBeforeStopDate": true
     },
@@ -292,18 +160,6 @@
       "taxType": "Vergi Usul Kanunu",
       "periodDescription": "2025 IV. Geçici Vergi Dönemi (Ekim-Kasım-Aralık) ",
       "subject": "Bildirim",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 2984,
-      "title": "Gelir Geçici Vergisi Beyan ve Ödemesi",
-      "description": "2025 IV. Geçici Vergi Dönemine (Ekim-Kasım-Aralık) Ait Gelir Geçici Vergisinin Beyanı ve Ödemesi",
-      "startdate": "01-01-2026",
-      "stopdate": "17-02-2026",
-      "priority": 1,
-      "taxType": "Gelir Geçici Vergisi",
-      "periodDescription": "2025 IV. Geçici Vergi Dönemi (Ekim-Kasım-Aralık) ",
-      "subject": "Beyan ve Ödeme",
       "startDateBeforeStopDate": true
     },
     {
@@ -415,18 +271,6 @@
       "startDateBeforeStopDate": true
     },
     {
-      "id": 3015,
-      "title": "Gelir ve Kurumlar Vergisi Tevkifatlarının Beyan ve Ödemesi",
-      "description": "Ocak 2026 Dönemine Ait GVK 94. Madde ile KVK 15. ve 30. Maddelerine Göre Yapılan Tevkifatların Muhtasar ve Prim Hizmet Beyannamesi ile Beyanı ve Ödemesi",
-      "startdate": "01-02-2026",
-      "stopdate": "26-02-2026",
-      "priority": 1,
-      "taxType": "Gelir Vergisi,Kurumlar Vergisi",
-      "periodDescription": "Ocak 2026 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
       "id": 3016,
       "title": "İstihkaktan Kesinti Suretiyle Tahsil Edilen Damga Vergisinin  Beyan ve Ödemesi",
       "description": "Ocak 2026 Dönemine Ait İstihkaktan Kesinti Suretiyle Tahsil Edilen Damga  Vergisinin Beyanı ve Ödemesi",
@@ -446,6 +290,18 @@
       "stopdate": "26-02-2026",
       "priority": 1,
       "taxType": "Damga Vergisi",
+      "periodDescription": "Ocak 2026 Dönemi",
+      "subject": "Beyan ve Ödeme",
+      "startDateBeforeStopDate": true
+    },
+    {
+      "id": 3015,
+      "title": "Gelir ve Kurumlar Vergisi Tevkifatlarının Beyan ve Ödemesi",
+      "description": "Ocak 2026 Dönemine Ait GVK 94. Madde ile KVK 15. ve 30. Maddelerine Göre Yapılan Tevkifatların Muhtasar ve Prim Hizmet Beyannamesi ile Beyanı ve Ödemesi",
+      "startdate": "01-02-2026",
+      "stopdate": "26-02-2026",
+      "priority": 1,
+      "taxType": "Gelir Vergisi,Kurumlar Vergisi",
       "periodDescription": "Ocak 2026 Dönemi",
       "subject": "Beyan ve Ödeme",
       "startDateBeforeStopDate": true
@@ -475,27 +331,39 @@
       "startDateBeforeStopDate": true
     },
     {
-      "id": 3019,
-      "title": "Kurumlar Vergisi Mükelleflerinin Turizm Payı Beyan ve Ödemesi",
-      "description": "Ocak 2026 Dönemine Ait Kurumlar Vergisi Mükellefleri İçin Turizm Payının Beyanı ve Ödemesi",
+      "id": 3020,
+      "title": "Haberleşme Vergisi Beyan ve Ödemesi",
+      "description": "Ocak 2026 Dönemine Ait Haberleşme Vergisinin Beyanı ve Ödemesi",
       "startdate": "01-02-2026",
       "stopdate": "02-03-2026",
       "priority": 2,
-      "taxType": "Türkiye Turizm Tanıtım ve Geliştirme Ajansı Hakkında Kanun",
+      "taxType": "Haberleşme Vergisi",
       "periodDescription": "Ocak 2026 Dönemi",
       "subject": "Beyan ve Ödeme",
       "startDateBeforeStopDate": true
     },
     {
-      "id": 3018,
-      "title": "Katma Değer Vergisinin Beyan ve Ödemesi",
-      "description": "Ocak 2026 Dönemine Ait Katma Değer Vergisinin Beyanı ve Ödemesi",
+      "id": 3021,
+      "title": "Dijital Hizmet Vergisi Beyan ve Ödemesi",
+      "description": "Ocak 2026 Dönemine Ait Dijital Hizmet Vergisinin Beyanı ve Ödemesi",
       "startdate": "01-02-2026",
       "stopdate": "02-03-2026",
-      "priority": 1,
-      "taxType": "Katma Değer Vergisi",
+      "priority": 2,
+      "taxType": "Dijital Hizmet Vergisi",
       "periodDescription": "Ocak 2026 Dönemi",
       "subject": "Beyan ve Ödeme",
+      "startDateBeforeStopDate": true
+    },
+    {
+      "id": 3022,
+      "title": "Aracı Hizmet Sağlayıcıları, İnternet Reklamcılığı Hizmet Aracıları ile Kargo ve Lojistik İşletmelerinin Bildirimi ",
+      "description": "Ocak 2026 Dönemine Ait 464 Sıra No.lu VUKGT Kapsamında Bildirimde Bulunma Zorunluluğu Getirilen Aracı Hizmet Sağlayıcıları, İnternet Reklamcılığı Hizmet Aracıları ile Kargo ve Lojistik İşletmeleri Tarafından Bildirim Verilmesi",
+      "startdate": "01-02-2026",
+      "stopdate": "02-03-2026",
+      "priority": 2,
+      "taxType": "Vergi Usul Kanunu",
+      "periodDescription": "Ocak 2026 Dönemi",
+      "subject": "Bildirim",
       "startDateBeforeStopDate": true
     },
     {
@@ -523,37 +391,25 @@
       "startDateBeforeStopDate": true
     },
     {
-      "id": 3022,
-      "title": "Aracı Hizmet Sağlayıcıları, İnternet Reklamcılığı Hizmet Aracıları ile Kargo ve Lojistik İşletmelerinin Bildirimi ",
-      "description": "Ocak 2026 Dönemine Ait 464 Sıra No.lu VUKGT Kapsamında Bildirimde Bulunma Zorunluluğu Getirilen Aracı Hizmet Sağlayıcıları, İnternet Reklamcılığı Hizmet Aracıları ile Kargo ve Lojistik İşletmeleri Tarafından Bildirim Verilmesi",
+      "id": 3018,
+      "title": "Katma Değer Vergisinin Beyan ve Ödemesi",
+      "description": "Ocak 2026 Dönemine Ait Katma Değer Vergisinin Beyanı ve Ödemesi",
       "startdate": "01-02-2026",
       "stopdate": "02-03-2026",
-      "priority": 2,
-      "taxType": "Vergi Usul Kanunu",
-      "periodDescription": "Ocak 2026 Dönemi",
-      "subject": "Bildirim",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 3021,
-      "title": "Dijital Hizmet Vergisi Beyan ve Ödemesi",
-      "description": "Ocak 2026 Dönemine Ait Dijital Hizmet Vergisinin Beyanı ve Ödemesi",
-      "startdate": "01-02-2026",
-      "stopdate": "02-03-2026",
-      "priority": 2,
-      "taxType": "Dijital Hizmet Vergisi",
+      "priority": 1,
+      "taxType": "Katma Değer Vergisi",
       "periodDescription": "Ocak 2026 Dönemi",
       "subject": "Beyan ve Ödeme",
       "startDateBeforeStopDate": true
     },
     {
-      "id": 3020,
-      "title": "Haberleşme Vergisi Beyan ve Ödemesi",
-      "description": "Ocak 2026 Dönemine Ait Haberleşme Vergisinin Beyanı ve Ödemesi",
+      "id": 3019,
+      "title": "Kurumlar Vergisi Mükelleflerinin Turizm Payı Beyan ve Ödemesi",
+      "description": "Ocak 2026 Dönemine Ait Kurumlar Vergisi Mükellefleri İçin Turizm Payının Beyanı ve Ödemesi",
       "startdate": "01-02-2026",
       "stopdate": "02-03-2026",
       "priority": 2,
-      "taxType": "Haberleşme Vergisi",
+      "taxType": "Türkiye Turizm Tanıtım ve Geliştirme Ajansı Hakkında Kanun",
       "periodDescription": "Ocak 2026 Dönemi",
       "subject": "Beyan ve Ödeme",
       "startDateBeforeStopDate": true
@@ -583,9 +439,21 @@
       "startDateBeforeStopDate": true
     },
     {
-      "id": 2990,
+      "id": 2904,
       "title": "Elektronik Defter Beratları",
-      "description": "Geçici Vergi Dönemleri Bazında Yükleme Tercihinde Bulunmuş Gelir Vergisi Mükelleflerinin Aralık 2025 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
+      "description": "Geçici Vergi Dönemleri Bazında Yükleme Tercihinde Bulunmuş Gelir Vergisi Mükelleflerinin Ekim 2025 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
+      "startdate": "01-11-2025",
+      "stopdate": "10-04-2026",
+      "priority": 1,
+      "taxType": "Vergi Usul Kanunu",
+      "periodDescription": "Ekim 2025 Dönemi",
+      "subject": "Berat",
+      "startDateBeforeStopDate": true
+    },
+    {
+      "id": 2989,
+      "title": "Elektronik Defter Beratları",
+      "description": "Aylık Yükleme Tercihinde Bulunmuş Gelir Vergisi Mükelleflerinin Aralık 2025 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
       "startdate": "01-01-2026",
       "stopdate": "10-04-2026",
       "priority": 1,
@@ -595,9 +463,9 @@
       "startDateBeforeStopDate": true
     },
     {
-      "id": 2989,
+      "id": 2990,
       "title": "Elektronik Defter Beratları",
-      "description": "Aylık Yükleme Tercihinde Bulunmuş Gelir Vergisi Mükelleflerinin Aralık 2025 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
+      "description": "Geçici Vergi Dönemleri Bazında Yükleme Tercihinde Bulunmuş Gelir Vergisi Mükelleflerinin Aralık 2025 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
       "startdate": "01-01-2026",
       "stopdate": "10-04-2026",
       "priority": 1,
@@ -615,18 +483,6 @@
       "priority": 2,
       "taxType": "Vergi Usul Kanunu",
       "periodDescription": "Kasım 2025 Dönemi",
-      "subject": "Berat",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 2904,
-      "title": "Elektronik Defter Beratları",
-      "description": "Geçici Vergi Dönemleri Bazında Yükleme Tercihinde Bulunmuş Gelir Vergisi Mükelleflerinin Ekim 2025 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
-      "startdate": "01-11-2025",
-      "stopdate": "10-04-2026",
-      "priority": 1,
-      "taxType": "Vergi Usul Kanunu",
-      "periodDescription": "Ekim 2025 Dönemi",
       "subject": "Berat",
       "startDateBeforeStopDate": true
     },
@@ -655,38 +511,14 @@
       "startDateBeforeStopDate": true
     },
     {
-      "id": 3116,
+      "id": 2991,
       "title": "Elektronik Defter Beratları",
-      "description": "Aylık Yükleme Tercihinde Bulunmuş Diğer Mükelleflerin Ocak 2026 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi ",
-      "startdate": "01-02-2026",
-      "stopdate": "14-05-2026",
-      "priority": 1,
-      "taxType": "Vergi Usul Kanunu",
-      "periodDescription": "Ocak 2026 Dönemi",
-      "subject": "Berat",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 3115,
-      "title": "Elektronik Defter Beratları",
-      "description": "Aylık Yükleme Tercihinde Bulunmuş Diğer Mükelleflerin Aralık 2025 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi ",
+      "description": "Geçici Vergi Dönemleri Bazında Yükleme Tercihinde Bulunmuş Diğer Mükelleflerin Aralık 2025 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi ",
       "startdate": "01-01-2026",
       "stopdate": "14-05-2026",
       "priority": 1,
       "taxType": "Vergi Usul Kanunu",
       "periodDescription": "Aralık 2025 Dönemi",
-      "subject": "Berat",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 2905,
-      "title": "Elektronik Defter Beratları",
-      "description": "Geçici Vergi Dönemleri Bazında Yükleme Tercihinde Bulunmuş Diğer Mükelleflerin Ekim 2025 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
-      "startdate": "01-11-2025",
-      "stopdate": "14-05-2026",
-      "priority": 2,
-      "taxType": "Vergi Usul Kanunu",
-      "periodDescription": "Ekim 2025 Dönemi",
       "subject": "Berat",
       "startDateBeforeStopDate": true
     },
@@ -703,9 +535,33 @@
       "startDateBeforeStopDate": true
     },
     {
-      "id": 3026,
+      "id": 2905,
       "title": "Elektronik Defter Beratları",
-      "description": "Aylık Yükleme Tercihinde Bulunmuş Diğer Mükelleflerin Ocak 2026 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
+      "description": "Geçici Vergi Dönemleri Bazında Yükleme Tercihinde Bulunmuş Diğer Mükelleflerin Ekim 2025 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
+      "startdate": "01-11-2025",
+      "stopdate": "14-05-2026",
+      "priority": 2,
+      "taxType": "Vergi Usul Kanunu",
+      "periodDescription": "Ekim 2025 Dönemi",
+      "subject": "Berat",
+      "startDateBeforeStopDate": true
+    },
+    {
+      "id": 3115,
+      "title": "Elektronik Defter Beratları",
+      "description": "Aylık Yükleme Tercihinde Bulunmuş Diğer Mükelleflerin Aralık 2025 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi ",
+      "startdate": "01-01-2026",
+      "stopdate": "14-05-2026",
+      "priority": 1,
+      "taxType": "Vergi Usul Kanunu",
+      "periodDescription": "Aralık 2025 Dönemi",
+      "subject": "Berat",
+      "startDateBeforeStopDate": true
+    },
+    {
+      "id": 3116,
+      "title": "Elektronik Defter Beratları",
+      "description": "Aylık Yükleme Tercihinde Bulunmuş Diğer Mükelleflerin Ocak 2026 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi ",
       "startdate": "01-02-2026",
       "stopdate": "14-05-2026",
       "priority": 1,
@@ -715,14 +571,14 @@
       "startDateBeforeStopDate": true
     },
     {
-      "id": 2991,
+      "id": 3026,
       "title": "Elektronik Defter Beratları",
-      "description": "Geçici Vergi Dönemleri Bazında Yükleme Tercihinde Bulunmuş Diğer Mükelleflerin Aralık 2025 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi ",
-      "startdate": "01-01-2026",
+      "description": "Aylık Yükleme Tercihinde Bulunmuş Diğer Mükelleflerin Ocak 2026 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
+      "startdate": "01-02-2026",
       "stopdate": "14-05-2026",
       "priority": 1,
       "taxType": "Vergi Usul Kanunu",
-      "periodDescription": "Aralık 2025 Dönemi",
+      "periodDescription": "Ocak 2026 Dönemi",
       "subject": "Berat",
       "startDateBeforeStopDate": true
     },
