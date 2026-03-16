@@ -1,33 +1,57 @@
 {
   "metadata": {
-    "fetchedAt": "09-03-2026",
-    "requestedDay": "09-03-2026",
-    "totalItems": 55,
+    "fetchedAt": "16-03-2026",
+    "requestedDay": "16-03-2026",
+    "totalItems": 54,
     "pageSize": 1000
   },
   "items": [
     {
-      "id": 2943,
-      "title": "Elektronik Defter Beratları",
-      "description": "Aylık Yükleme Tercihinde Bulunmuş Gelir Vergisi Mükelleflerinin Kasım 2025 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
-      "startdate": "01-12-2025",
-      "stopdate": "10-03-2026",
+      "id": 3032,
+      "title": "Özel Tüketim Vergisi Beyan ve Ödemesi",
+      "description": "Şubat 2026 Dönemine Ait Dayanıklı Tüketim ve Diğer Mallara İlişkin Özel Tüketim Vergisinin Beyanı ve Ödemesi",
+      "startdate": "01-03-2026",
+      "stopdate": "16-03-2026",
       "priority": 1,
+      "taxType": "Özel Tüketim Vergisi",
+      "periodDescription": "Şubat 2026 Dönemi",
+      "subject": "Beyan ve Ödeme",
+      "startDateBeforeStopDate": true
+    },
+    {
+      "id": 3031,
+      "title": "Özel Tüketim Vergisi Beyan ve Ödemesi",
+      "description": "Şubat 2026 Dönemine Ait Alkollü İçecekler, Alkolsüz İçecekler, Tütün Mamulleri ve Makaronlara İlişkin Özel Tüketim Vergisinin Beyanı ve Ödemesi",
+      "startdate": "01-03-2026",
+      "stopdate": "16-03-2026",
+      "priority": 1,
+      "taxType": "Özel Tüketim Vergisi",
+      "periodDescription": "Şubat 2026 Dönemi",
+      "subject": "Beyan ve Ödeme",
+      "startDateBeforeStopDate": true
+    },
+    {
+      "id": 2944,
+      "title": "Elektronik Defter Beratları",
+      "description": "Aylık Yükleme Tercihinde Bulunmuş Diğer Mükelleflerin Kasım 2025 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
+      "startdate": "01-12-2025",
+      "stopdate": "16-03-2026",
+      "priority": 2,
       "taxType": "Vergi Usul Kanunu",
       "periodDescription": "Kasım 2025 Dönemi",
       "subject": "Berat",
       "startDateBeforeStopDate": true
     },
     {
-      "id": 3030,
-      "title": "Özel Tüketim Vergisi Beyan ve Ödemesi",
-      "description": "16-28 Şubat 2026 Dönemine Ait Petrol ve Doğalgaz Ürünlerine İlişkin Özel Tüketim Vergisinin Beyanı ve Ödemesi",
+      "id": 3037,
+      "title": "Ticaret Sicili Harçları Bildirim ve Ödemesi",
+      "description": "Şubat 2026 Dönemine Ait Ticaret Sicili Harçları Bildirimi Verilmesi ve Ödemesi",
       "startdate": "01-03-2026",
-      "stopdate": "10-03-2026",
-      "priority": 1,
-      "taxType": "Özel Tüketim Vergisi",
-      "periodDescription": "16-28 Şubat 2026 Dönemi",
-      "subject": "Beyan ve Ödeme",
+      "stopdate": "16-03-2026",
+      "priority": 2,
+      "taxType": "Harçlar Kanunu",
+      "periodDescription": "Şubat 2026 Dönemi",
+      "subject": "Bildirim ve Ödeme",
       "startDateBeforeStopDate": true
     },
     {
@@ -79,51 +103,15 @@
       "startDateBeforeStopDate": true
     },
     {
-      "id": 2944,
-      "title": "Elektronik Defter Beratları",
-      "description": "Aylık Yükleme Tercihinde Bulunmuş Diğer Mükelleflerin Kasım 2025 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
-      "startdate": "01-12-2025",
-      "stopdate": "16-03-2026",
-      "priority": 2,
-      "taxType": "Vergi Usul Kanunu",
-      "periodDescription": "Kasım 2025 Dönemi",
-      "subject": "Berat",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 3032,
-      "title": "Özel Tüketim Vergisi Beyan ve Ödemesi",
-      "description": "Şubat 2026 Dönemine Ait Dayanıklı Tüketim ve Diğer Mallara İlişkin Özel Tüketim Vergisinin Beyanı ve Ödemesi",
+      "id": 3039,
+      "title": "Yangın Sigortası Vergisi Beyan ve Ödemesi",
+      "description": "Şubat 2026 Dönemine Ait Yangın Sigortası Vergisinin Beyanı ve Ödemesi",
       "startdate": "01-03-2026",
-      "stopdate": "16-03-2026",
-      "priority": 1,
-      "taxType": "Özel Tüketim Vergisi",
+      "stopdate": "23-03-2026",
+      "priority": 2,
+      "taxType": "Yangın Sigortası Vergisi",
       "periodDescription": "Şubat 2026 Dönemi",
       "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 3031,
-      "title": "Özel Tüketim Vergisi Beyan ve Ödemesi",
-      "description": "Şubat 2026 Dönemine Ait Alkollü İçecekler, Alkolsüz İçecekler, Tütün Mamulleri ve Makaronlara İlişkin Özel Tüketim Vergisinin Beyanı ve Ödemesi",
-      "startdate": "01-03-2026",
-      "stopdate": "16-03-2026",
-      "priority": 1,
-      "taxType": "Özel Tüketim Vergisi",
-      "periodDescription": "Şubat 2026 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 3037,
-      "title": "Ticaret Sicili Harçları Bildirim ve Ödemesi",
-      "description": "Şubat 2026 Dönemine Ait Ticaret Sicili Harçları Bildirimi Verilmesi ve Ödemesi",
-      "startdate": "01-03-2026",
-      "stopdate": "16-03-2026",
-      "priority": 2,
-      "taxType": "Harçlar Kanunu",
-      "periodDescription": "Şubat 2026 Dönemi",
-      "subject": "Bildirim ve Ödeme",
       "startDateBeforeStopDate": true
     },
     {
@@ -139,49 +127,13 @@
       "startDateBeforeStopDate": true
     },
     {
-      "id": 3038,
-      "title": "Elektrik ve Havagazı Tüketim Vergisi Beyan ve Ödemesi",
-      "description": "Şubat 2026 Dönemine Ait Elektrik ve Havagazı Tüketim Vergisinin Beyanı ve Ödemesi",
+      "id": 3043,
+      "title": "Müşterek Bahislere İlişkin Eğlence Vergisi Beyan ve Ödemesi ",
+      "description": "Şubat 2026 Dönemine Ait Müşterek Bahislere İlişkin Eğlence Vergisinin Beyanı ve Ödemesi ",
       "startdate": "01-03-2026",
       "stopdate": "23-03-2026",
       "priority": 2,
-      "taxType": "Elektrik ve Havagazı Tüketim Vergisi",
-      "periodDescription": "Şubat 2026 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 3039,
-      "title": "Yangın Sigortası Vergisi Beyan ve Ödemesi",
-      "description": "Şubat 2026 Dönemine Ait Yangın Sigortası Vergisinin Beyanı ve Ödemesi",
-      "startdate": "01-03-2026",
-      "stopdate": "23-03-2026",
-      "priority": 2,
-      "taxType": "Yangın Sigortası Vergisi",
-      "periodDescription": "Şubat 2026 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 3040,
-      "title": "Şans Oyunları Vergisi Beyan ve Ödemesi",
-      "description": "Şubat 2026 Dönemine Ait Şans Oyunları Vergisinin Beyanı ve Ödemesi",
-      "startdate": "01-03-2026",
-      "stopdate": "23-03-2026",
-      "priority": 2,
-      "taxType": "Şans Oyunları Vergisi",
-      "periodDescription": "Şubat 2026 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 3041,
-      "title": "Şans Oyunlarıyla İlgili Veraset ve İntikal Vergisi Beyan ve Ödemesi",
-      "description": "Şubat 2026 Dönemine Ait 5602 Sayılı Kanunda Tanımlanan Şans Oyunlarıyla İlgili Veraset ve İntikal Vergisinin Beyanı ve Ödemesi",
-      "startdate": "01-03-2026",
-      "stopdate": "23-03-2026",
-      "priority": 1,
-      "taxType": "Veraset ve İntikal Vergisi",
+      "taxType": "Eğlence Vergisi",
       "periodDescription": "Şubat 2026 Dönemi",
       "subject": "Beyan ve Ödeme",
       "startDateBeforeStopDate": true
@@ -199,13 +151,37 @@
       "startDateBeforeStopDate": true
     },
     {
-      "id": 3043,
-      "title": "Müşterek Bahislere İlişkin Eğlence Vergisi Beyan ve Ödemesi ",
-      "description": "Şubat 2026 Dönemine Ait Müşterek Bahislere İlişkin Eğlence Vergisinin Beyanı ve Ödemesi ",
+      "id": 3038,
+      "title": "Elektrik ve Havagazı Tüketim Vergisi Beyan ve Ödemesi",
+      "description": "Şubat 2026 Dönemine Ait Elektrik ve Havagazı Tüketim Vergisinin Beyanı ve Ödemesi",
       "startdate": "01-03-2026",
       "stopdate": "23-03-2026",
       "priority": 2,
-      "taxType": "Eğlence Vergisi",
+      "taxType": "Elektrik ve Havagazı Tüketim Vergisi",
+      "periodDescription": "Şubat 2026 Dönemi",
+      "subject": "Beyan ve Ödeme",
+      "startDateBeforeStopDate": true
+    },
+    {
+      "id": 3041,
+      "title": "Şans Oyunlarıyla İlgili Veraset ve İntikal Vergisi Beyan ve Ödemesi",
+      "description": "Şubat 2026 Dönemine Ait 5602 Sayılı Kanunda Tanımlanan Şans Oyunlarıyla İlgili Veraset ve İntikal Vergisinin Beyanı ve Ödemesi",
+      "startdate": "01-03-2026",
+      "stopdate": "23-03-2026",
+      "priority": 1,
+      "taxType": "Veraset ve İntikal Vergisi",
+      "periodDescription": "Şubat 2026 Dönemi",
+      "subject": "Beyan ve Ödeme",
+      "startDateBeforeStopDate": true
+    },
+    {
+      "id": 3040,
+      "title": "Şans Oyunları Vergisi Beyan ve Ödemesi",
+      "description": "Şubat 2026 Dönemine Ait Şans Oyunları Vergisinin Beyanı ve Ödemesi",
+      "startdate": "01-03-2026",
+      "stopdate": "23-03-2026",
+      "priority": 2,
+      "taxType": "Şans Oyunları Vergisi",
       "periodDescription": "Şubat 2026 Dönemi",
       "subject": "Beyan ve Ödeme",
       "startDateBeforeStopDate": true
@@ -223,6 +199,18 @@
       "startDateBeforeStopDate": true
     },
     {
+      "id": 3046,
+      "title": "Özel Tüketim Vergisi Beyan ve Ödemesi",
+      "description": "1-15 Mart 2026 Dönemine Ait Petrol ve Doğalgaz Ürünlerine İlişkin Özel Tüketim Vergisinin Beyanı ve Ödemesi",
+      "startdate": "16-03-2026",
+      "stopdate": "25-03-2026",
+      "priority": 1,
+      "taxType": "Özel Tüketim Vergisi",
+      "periodDescription": "1-15 Mart 2026 Dönemi",
+      "subject": "Beyan ve Ödeme",
+      "startDateBeforeStopDate": true
+    },
+    {
       "id": 3049,
       "title": "Sürekli Mükellefiyette Makbuz Karşılığı Damga Vergisinin Beyan ve Ödemesi",
       "description": "Şubat 2026 Dönemine Ait Sürekli Mükellefiyeti Bulunanlar İçin Makbuz Karşılığı Ödenmesi Gereken Damga Vergisinin Beyanı ve Ödemesi",
@@ -230,6 +218,18 @@
       "stopdate": "26-03-2026",
       "priority": 1,
       "taxType": "Damga Vergisi",
+      "periodDescription": "Şubat 2026 Dönemi",
+      "subject": "Beyan ve Ödeme",
+      "startDateBeforeStopDate": true
+    },
+    {
+      "id": 3050,
+      "title": "Konaklama Vergisi Beyan ve Ödemesi",
+      "description": "Şubat 2026 Dönemine Ait Konaklama Vergisinin Beyanı ve Ödemesi",
+      "startdate": "01-03-2026",
+      "stopdate": "26-03-2026",
+      "priority": 2,
+      "taxType": "Konaklama Vergisi",
       "periodDescription": "Şubat 2026 Dönemi",
       "subject": "Beyan ve Ödeme",
       "startDateBeforeStopDate": true
@@ -259,18 +259,6 @@
       "startDateBeforeStopDate": true
     },
     {
-      "id": 3050,
-      "title": "Konaklama Vergisi Beyan ve Ödemesi",
-      "description": "Şubat 2026 Dönemine Ait Konaklama Vergisinin Beyanı ve Ödemesi",
-      "startdate": "01-03-2026",
-      "stopdate": "26-03-2026",
-      "priority": 2,
-      "taxType": "Konaklama Vergisi",
-      "periodDescription": "Şubat 2026 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
       "id": 3051,
       "title": "Katma Değer Vergisinin Beyan ve Ödemesi",
       "description": "Şubat 2026 Dönemine Ait Katma Değer Vergisinin Beyanı ve Ödemesi",
@@ -278,6 +266,18 @@
       "stopdate": "30-03-2026",
       "priority": 1,
       "taxType": "Katma Değer Vergisi",
+      "periodDescription": "Şubat 2026 Dönemi",
+      "subject": "Beyan ve Ödeme",
+      "startDateBeforeStopDate": true
+    },
+    {
+      "id": 3054,
+      "title": "Haberleşme Vergisi Beyan ve Ödemesi",
+      "description": "Şubat 2026 Dönemine Ait Haberleşme Vergisinin Beyanı ve Ödemesi",
+      "startdate": "01-03-2026",
+      "stopdate": "31-03-2026",
+      "priority": 2,
+      "taxType": "Haberleşme Vergisi",
       "periodDescription": "Şubat 2026 Dönemi",
       "subject": "Beyan ve Ödeme",
       "startDateBeforeStopDate": true
@@ -307,15 +307,39 @@
       "startDateBeforeStopDate": true
     },
     {
-      "id": 3054,
-      "title": "Haberleşme Vergisi Beyan ve Ödemesi",
-      "description": "Şubat 2026 Dönemine Ait Haberleşme Vergisinin Beyanı ve Ödemesi",
+      "id": 3057,
+      "title": "Yıllık Gelir Vergisi Beyan ve Ödemesi",
+      "description": "2025 Yılına İlişkin Yıllık Gelir Vergisinin Beyanı ve 1.Taksit Ödemesi ",
+      "startdate": "01-03-2026",
+      "stopdate": "31-03-2026",
+      "priority": 1,
+      "taxType": "Gelir Vergisi",
+      "periodDescription": "2025 Yılı",
+      "subject": "Beyan ve Ödeme",
+      "startDateBeforeStopDate": true
+    },
+    {
+      "id": 3059,
+      "title": "Taşınmaz ve Motorlu Taşıt İlanlarını Platformları Üzerinden Yayımlayanlar ile Günübirlik Konut Kiralama İşini Platformları Üzerinden Sağlayanların Bildirimi",
+      "description": "Şubat 2026 Dönemine Ait 538 Sıra No.lu VUKGT Kapsamında Taşınmaz (Satış/Kiralama) ve Motorlu Taşıt (Satış) İlanlarını Platformları Üzerinden Yayımlayanlar ile Günübirlik Konut Kiralama İşini Platformları Üzerinden Sağlayanlarca Bildirim Verilmesi",
       "startdate": "01-03-2026",
       "stopdate": "31-03-2026",
       "priority": 2,
-      "taxType": "Haberleşme Vergisi",
+      "taxType": "Vergi Usul Kanunu",
       "periodDescription": "Şubat 2026 Dönemi",
-      "subject": "Beyan ve Ödeme",
+      "subject": "Bildirim",
+      "startDateBeforeStopDate": true
+    },
+    {
+      "id": 3058,
+      "title": "Aracı Hizmet Sağlayıcıları, İnternet Reklamcılığı Hizmet Aracıları ile Kargo ve Lojistik İşletmelerinin Bildirimi ",
+      "description": "Şubat 2026 Dönemine Ait 464 Sıra No.lu VUKGT Kapsamında Bildirimde Bulunma Zorunluluğu Getirilen Aracı Hizmet Sağlayıcıları, İnternet Reklamcılığı Hizmet Aracıları ile Kargo ve Lojistik İşletmeleri Tarafından Bildirim Verilmesi",
+      "startdate": "01-03-2026",
+      "stopdate": "31-03-2026",
+      "priority": 2,
+      "taxType": "Vergi Usul Kanunu",
+      "periodDescription": "Şubat 2026 Dönemi",
+      "subject": "Bildirim",
       "startDateBeforeStopDate": true
     },
     {
@@ -340,42 +364,6 @@
       "taxType": "Gelir Vergisi",
       "periodDescription": "2025 Yılı",
       "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 3057,
-      "title": "Yıllık Gelir Vergisi Beyan ve Ödemesi",
-      "description": "2025 Yılına İlişkin Yıllık Gelir Vergisinin Beyanı ve 1.Taksit Ödemesi ",
-      "startdate": "01-03-2026",
-      "stopdate": "31-03-2026",
-      "priority": 1,
-      "taxType": "Gelir Vergisi",
-      "periodDescription": "2025 Yılı",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 3058,
-      "title": "Aracı Hizmet Sağlayıcıları, İnternet Reklamcılığı Hizmet Aracıları ile Kargo ve Lojistik İşletmelerinin Bildirimi ",
-      "description": "Şubat 2026 Dönemine Ait 464 Sıra No.lu VUKGT Kapsamında Bildirimde Bulunma Zorunluluğu Getirilen Aracı Hizmet Sağlayıcıları, İnternet Reklamcılığı Hizmet Aracıları ile Kargo ve Lojistik İşletmeleri Tarafından Bildirim Verilmesi",
-      "startdate": "01-03-2026",
-      "stopdate": "31-03-2026",
-      "priority": 2,
-      "taxType": "Vergi Usul Kanunu",
-      "periodDescription": "Şubat 2026 Dönemi",
-      "subject": "Bildirim",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 3059,
-      "title": "Taşınmaz ve Motorlu Taşıt İlanlarını Platformları Üzerinden Yayımlayanlar ile Günübirlik Konut Kiralama İşini Platformları Üzerinden Sağlayanların Bildirimi",
-      "description": "Şubat 2026 Dönemine Ait 538 Sıra No.lu VUKGT Kapsamında Taşınmaz (Satış/Kiralama) ve Motorlu Taşıt (Satış) İlanlarını Platformları Üzerinden Yayımlayanlar ile Günübirlik Konut Kiralama İşini Platformları Üzerinden Sağlayanlarca Bildirim Verilmesi",
-      "startdate": "01-03-2026",
-      "stopdate": "31-03-2026",
-      "priority": 2,
-      "taxType": "Vergi Usul Kanunu",
-      "periodDescription": "Şubat 2026 Dönemi",
-      "subject": "Bildirim",
       "startDateBeforeStopDate": true
     },
     {
