@@ -1,167 +1,11 @@
 {
   "metadata": {
-    "fetchedAt": "22-06-2026",
-    "requestedDay": "22-06-2026",
-    "totalItems": 45,
+    "fetchedAt": "29-06-2026",
+    "requestedDay": "29-06-2026",
+    "totalItems": 32,
     "pageSize": 1000
   },
   "items": [
-    {
-      "id": 6938,
-      "title": "Diğer Eğlence Vergilerine İlişkin Eğlence Vergisinin Ödemesi",
-      "description": "Mayıs 2026 Dönemine Ait Diğer Eğlence Vergilerine İlişkin Eğlence Vergisinin Ödemesi",
-      "startdate": "01-06-2026",
-      "stopdate": "22-06-2026",
-      "priority": 2,
-      "taxType": "Eğlence Vergisi",
-      "periodDescription": "Mayıs 2026 Dönemi",
-      "subject": "Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 6939,
-      "title": "Elektrik ve Havagazı Tüketim Vergisi Beyan ve Ödemesi",
-      "description": "Mayıs 2026 Dönemine Ait Elektrik ve Havagazı Tüketim Vergisinin Beyanı ve Ödemesi",
-      "startdate": "01-06-2026",
-      "stopdate": "22-06-2026",
-      "priority": 2,
-      "taxType": "Elektrik ve Havagazı Tüketim Vergisi",
-      "periodDescription": "Mayıs 2026 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 6940,
-      "title": "Yangın Sigortası Vergisi Beyan ve Ödemesi",
-      "description": "Mayıs 2026 Dönemine Ait Yangın Sigortası Vergisinin Beyanı ve Ödemesi",
-      "startdate": "01-06-2026",
-      "stopdate": "22-06-2026",
-      "priority": 2,
-      "taxType": "Yangın Sigortası Vergisi",
-      "periodDescription": "Mayıs 2026 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 6936,
-      "title": "İlan ve Reklam Vergisi Beyan ve Ödemesi",
-      "description": "Mayıs 2026 Dönemine Ait İlan ve Reklam Vergisinin Beyanı ve Ödemesi",
-      "startdate": "01-06-2026",
-      "stopdate": "22-06-2026",
-      "priority": 2,
-      "taxType": "İlan ve Reklam Vergisi",
-      "periodDescription": "Mayıs 2026 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 6937,
-      "title": "Müşterek Bahislere İlişkin Eğlence Vergisi Beyan ve Ödemesi ",
-      "description": "Mayıs 2026 Dönemine Ait Müşterek Bahislere İlişkin Eğlence Vergisinin Beyanı ve Ödemesi ",
-      "startdate": "01-06-2026",
-      "stopdate": "22-06-2026",
-      "priority": 2,
-      "taxType": "Eğlence Vergisi",
-      "periodDescription": "Mayıs 2026 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 6934,
-      "title": "Şans Oyunları Vergisi Beyan ve Ödemesi",
-      "description": "Mayıs 2026 Dönemine Ait Şans Oyunları Vergisinin Beyanı ve Ödemesi",
-      "startdate": "01-06-2026",
-      "stopdate": "22-06-2026",
-      "priority": 2,
-      "taxType": "Şans Oyunları Vergisi",
-      "periodDescription": "Mayıs 2026 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 6935,
-      "title": "Şans Oyunlarıyla İlgili Veraset ve İntikal Vergisi Beyan ve Ödemesi",
-      "description": "Mayıs 2026 Dönemine Ait 5602 Sayılı Kanunda Tanımlanan Şans Oyunlarıyla İlgili Veraset ve İntikal Vergisinin Beyanı ve Ödemesi",
-      "startdate": "01-06-2026",
-      "stopdate": "22-06-2026",
-      "priority": 1,
-      "taxType": "Veraset ve İntikal Vergisi",
-      "periodDescription": "Mayıs 2026 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 6942,
-      "title": "Özel Tüketim Vergisi Beyan ve Ödemesi",
-      "description": "1-15 Haziran 2026 Dönemine Ait Petrol ve Doğalgaz Ürünlerine İlişkin Özel Tüketim Vergisinin Beyanı ve Ödemesi",
-      "startdate": "16-06-2026",
-      "stopdate": "25-06-2026",
-      "priority": 1,
-      "taxType": "Özel Tüketim Vergisi",
-      "periodDescription": "1-15 Haziran 2026 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 6941,
-      "title": "Katma Değer Vergisi Tevkifatı Beyan ve Ödemesi",
-      "description": "Mayıs 2026 Dönemine Ait Vergi Sorumlularının Tevkif Ettikleri Katma Değer Vergisinin Beyanı ve Ödemesi",
-      "startdate": "01-06-2026",
-      "stopdate": "25-06-2026",
-      "priority": 1,
-      "taxType": "Katma Değer Vergisi",
-      "periodDescription": "Mayıs 2026 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 6946,
-      "title": "Sürekli Mükellefiyette Makbuz Karşılığı Damga Vergisinin Beyan ve Ödemesi",
-      "description": "Mayıs 2026 Dönemine Ait Sürekli Mükellefiyeti Bulunanlar İçin Makbuz Karşılığı Ödenmesi Gereken Damga Vergisinin Beyanı ve Ödemesi",
-      "startdate": "01-06-2026",
-      "stopdate": "26-06-2026",
-      "priority": 1,
-      "taxType": "Damga Vergisi",
-      "periodDescription": "Mayıs 2026 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 6944,
-      "title": "Gelir ve Kurumlar Vergisi Tevkifatlarının Beyan ve Ödemesi",
-      "description": "Mayıs 2026 Dönemine Ait GVK 94. Madde ile KVK 15. ve 30. Maddelerine Göre Yapılan Tevkifatların Muhtasar ve Prim Hizmet Beyannamesi ile Beyanı ve Ödemesi",
-      "startdate": "01-06-2026",
-      "stopdate": "26-06-2026",
-      "priority": 1,
-      "taxType": "Gelir Vergisi,Kurumlar Vergisi",
-      "periodDescription": "Mayıs 2026 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 6943,
-      "title": "Konaklama Vergisi Beyan ve Ödemesi",
-      "description": "Mayıs 2026 Dönemine Ait Konaklama Vergisinin Beyanı ve Ödemesi",
-      "startdate": "01-06-2026",
-      "stopdate": "26-06-2026",
-      "priority": 2,
-      "taxType": "Konaklama Vergisi",
-      "periodDescription": "Mayıs 2026 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 6945,
-      "title": "İstihkaktan Kesinti Suretiyle Tahsil Edilen Damga Vergisinin  Beyan ve Ödemesi",
-      "description": "Mayıs 2026 Dönemine Ait İstihkaktan Kesinti Suretiyle Tahsil Edilen Damga  Vergisinin Beyanı ve Ödemesi",
-      "startdate": "01-06-2026",
-      "stopdate": "26-06-2026",
-      "priority": 1,
-      "taxType": "Damga Vergisi",
-      "periodDescription": "Mayıs 2026 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
     {
       "id": 6947,
       "title": "Katma Değer Vergisinin Beyan ve Ödemesi",
@@ -175,18 +19,6 @@
       "startDateBeforeStopDate": true
     },
     {
-      "id": 6949,
-      "title": "Haberleşme Vergisi Beyan ve Ödemesi",
-      "description": "Mayıs 2026 Dönemine Ait Haberleşme Vergisinin Beyanı ve Ödemesi",
-      "startdate": "01-06-2026",
-      "stopdate": "30-06-2026",
-      "priority": 2,
-      "taxType": "Haberleşme Vergisi",
-      "periodDescription": "Mayıs 2026 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
       "id": 6767,
       "title": "FATCA Kapsamında Finansal Bilgilerin Bildirimi",
       "description": "FATCA Anlaşmasının Uygulanmasına İlişkin Kılavuz Kapsamında Bildirimi Zorunlu ABD Hesaplarına İlişkin Bilgilerin Finansal Kuruluşlar Tarafından Elektronik Ortamda Bildirilmesi",
@@ -195,6 +27,18 @@
       "priority": 2,
       "taxType": "Vergi Usul Kanunu",
       "periodDescription": "2026 Yılı",
+      "subject": "Bildirim",
+      "startDateBeforeStopDate": true
+    },
+    {
+      "id": 6955,
+      "title": "Küresel Asgari Tamamlayıcı Kurumlar Vergisi Bilgi Beyannamesi",
+      "description": "2024 Yılına İlişkin Küresel Asgari Tamamlayıcı Kurumlar Vergisi Beyannamesi Ekinde Küresel Asgari Tamamlayıcı Kurumlar Vergisi Bilgi Beyannamesinin Verilmesi",
+      "startdate": "01-06-2026",
+      "stopdate": "30-06-2026",
+      "priority": 2,
+      "taxType": "Küresel Asgari Tamamlayıcı Kurumlar Vergisi",
+      "periodDescription": "2024 Yılı",
       "subject": "Bildirim",
       "startDateBeforeStopDate": true
     },
@@ -319,27 +163,27 @@
       "startDateBeforeStopDate": true
     },
     {
-      "id": 6948,
-      "title": "Kurumlar Vergisi Mükelleflerinin Turizm Payı Beyan ve Ödemesi",
-      "description": "Mayıs 2026 Dönemine Ait Kurumlar Vergisi Mükellefleri İçin Turizm Payının Beyanı ve Ödemesi",
+      "id": 6951,
+      "title": "Aracı Hizmet Sağlayıcıları, İnternet Reklamcılığı Hizmet Aracıları ile Kargo ve Lojistik İşletmelerinin Bildirimi ",
+      "description": "Mayıs 2026 Dönemine Ait 464 Sıra No.lu VUKGT Kapsamında Bildirimde Bulunma Zorunluluğu Getirilen Aracı Hizmet Sağlayıcıları, İnternet Reklamcılığı Hizmet Aracıları ile Kargo ve Lojistik İşletmeleri Tarafından Bildirim Verilmesi",
       "startdate": "01-06-2026",
       "stopdate": "30-06-2026",
       "priority": 2,
-      "taxType": "Türkiye Turizm Tanıtım ve Geliştirme Ajansı Hakkında Kanun",
+      "taxType": "Vergi Usul Kanunu",
       "periodDescription": "Mayıs 2026 Dönemi",
-      "subject": "Beyan ve Ödeme",
+      "subject": "Bildirim",
       "startDateBeforeStopDate": true
     },
     {
-      "id": 6766,
-      "title": "Ülke Bazlı Raporlamaya İlişkin Bildirim Formu",
-      "description": "2025 Yılı Ülke Bazlı Raporlamaya İlişkin Bildirim Formu (Ek-5)",
-      "startdate": "01-01-2026",
+      "id": 6949,
+      "title": "Haberleşme Vergisi Beyan ve Ödemesi",
+      "description": "Mayıs 2026 Dönemine Ait Haberleşme Vergisinin Beyanı ve Ödemesi",
+      "startdate": "01-06-2026",
       "stopdate": "30-06-2026",
       "priority": 2,
-      "taxType": "Kurumlar Vergisi",
-      "periodDescription": "2025 Yılı",
-      "subject": "Bildirim",
+      "taxType": "Haberleşme Vergisi",
+      "periodDescription": "Mayıs 2026 Dönemi",
+      "subject": "Beyan ve Ödeme",
       "startDateBeforeStopDate": true
     },
     {
@@ -355,18 +199,6 @@
       "startDateBeforeStopDate": true
     },
     {
-      "id": 6951,
-      "title": "Aracı Hizmet Sağlayıcıları, İnternet Reklamcılığı Hizmet Aracıları ile Kargo ve Lojistik İşletmelerinin Bildirimi ",
-      "description": "Mayıs 2026 Dönemine Ait 464 Sıra No.lu VUKGT Kapsamında Bildirimde Bulunma Zorunluluğu Getirilen Aracı Hizmet Sağlayıcıları, İnternet Reklamcılığı Hizmet Aracıları ile Kargo ve Lojistik İşletmeleri Tarafından Bildirim Verilmesi",
-      "startdate": "01-06-2026",
-      "stopdate": "30-06-2026",
-      "priority": 2,
-      "taxType": "Vergi Usul Kanunu",
-      "periodDescription": "Mayıs 2026 Dönemi",
-      "subject": "Bildirim",
-      "startDateBeforeStopDate": true
-    },
-    {
       "id": 6952,
       "title": "Taşınmaz ve Motorlu Taşıt İlanlarını Platformları Üzerinden Yayımlayanlar ile Günübirlik Konut Kiralama İşini Platformları Üzerinden Sağlayanların Bildirimi",
       "description": "Mayıs 2026 Dönemine Ait 538 Sıra No.lu VUKGT kapsamında Taşınmaz (Satış/Kiralama) ve Motorlu Taşıt (Satış) İlanlarını Platformları Üzerinden Yayımlayanlar ile Günübirlik Konut Kiralama İşini Platformları Üzerinden Sağlayanlarca Bildirim Verilmesi",
@@ -379,15 +211,15 @@
       "startDateBeforeStopDate": true
     },
     {
-      "id": 6953,
-      "title": "7440 Sayılı Kanunun Taksit Ödemesi ",
-      "description": "7440 Sayılı Kanun Uyarınca Ödenmesi Gereken 37. Taksit Ödemesi",
-      "startdate": "01-06-2026",
+      "id": 6766,
+      "title": "Ülke Bazlı Raporlamaya İlişkin Bildirim Formu",
+      "description": "2025 Yılı Ülke Bazlı Raporlamaya İlişkin Bildirim Formu (Ek-5)",
+      "startdate": "01-01-2026",
       "stopdate": "30-06-2026",
-      "priority": 1,
-      "taxType": "7440 Sayılı Kanun",
-      "periodDescription": "37. Taksit",
-      "subject": "Ödeme",
+      "priority": 2,
+      "taxType": "Kurumlar Vergisi",
+      "periodDescription": "2025 Yılı",
+      "subject": "Bildirim",
       "startDateBeforeStopDate": true
     },
     {
@@ -403,15 +235,27 @@
       "startDateBeforeStopDate": true
     },
     {
-      "id": 6955,
-      "title": "Küresel Asgari Tamamlayıcı Kurumlar Vergisi Bilgi Beyannamesi",
-      "description": "2024 Yılına İlişkin Küresel Asgari Tamamlayıcı Kurumlar Vergisi Beyannamesi Ekinde Küresel Asgari Tamamlayıcı Kurumlar Vergisi Bilgi Beyannamesinin Verilmesi",
+      "id": 6953,
+      "title": "7440 Sayılı Kanunun Taksit Ödemesi ",
+      "description": "7440 Sayılı Kanun Uyarınca Ödenmesi Gereken 37. Taksit Ödemesi",
+      "startdate": "01-06-2026",
+      "stopdate": "30-06-2026",
+      "priority": 1,
+      "taxType": "7440 Sayılı Kanun",
+      "periodDescription": "37. Taksit",
+      "subject": "Ödeme",
+      "startDateBeforeStopDate": true
+    },
+    {
+      "id": 6948,
+      "title": "Kurumlar Vergisi Mükelleflerinin Turizm Payı Beyan ve Ödemesi",
+      "description": "Mayıs 2026 Dönemine Ait Kurumlar Vergisi Mükellefleri İçin Turizm Payının Beyanı ve Ödemesi",
       "startdate": "01-06-2026",
       "stopdate": "30-06-2026",
       "priority": 2,
-      "taxType": "Küresel Asgari Tamamlayıcı Kurumlar Vergisi",
-      "periodDescription": "2024 Yılı",
-      "subject": "Bildirim",
+      "taxType": "Türkiye Turizm Tanıtım ve Geliştirme Ajansı Hakkında Kanun",
+      "periodDescription": "Mayıs 2026 Dönemi",
+      "subject": "Beyan ve Ödeme",
       "startDateBeforeStopDate": true
     },
     {
@@ -475,18 +319,6 @@
       "startDateBeforeStopDate": true
     },
     {
-      "id": 6956,
-      "title": "Elektronik Defter Beratları",
-      "description": "Aylık Yükleme Tercihinde Bulunmuş Gelir Vergisi Mükelleflerinin Mayıs 2026 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
-      "startdate": "01-06-2026",
-      "stopdate": "10-09-2026",
-      "priority": 1,
-      "taxType": "Vergi Usul Kanunu",
-      "periodDescription": "Mayıs 2026 Dönemi",
-      "subject": "Berat",
-      "startDateBeforeStopDate": true
-    },
-    {
       "id": 6921,
       "title": "Elektronik Defter Beratları",
       "description": "Geçici Vergi Dönemleri Bazında Yükleme Tercihinde Bulunmuş Gelir Vergisi Mükelleflerinin Nisan 2026 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
@@ -495,6 +327,18 @@
       "priority": 1,
       "taxType": "Vergi Usul Kanunu",
       "periodDescription": "Nisan 2026 Dönemi",
+      "subject": "Berat",
+      "startDateBeforeStopDate": true
+    },
+    {
+      "id": 6956,
+      "title": "Elektronik Defter Beratları",
+      "description": "Aylık Yükleme Tercihinde Bulunmuş Gelir Vergisi Mükelleflerinin Mayıs 2026 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
+      "startdate": "01-06-2026",
+      "stopdate": "10-09-2026",
+      "priority": 1,
+      "taxType": "Vergi Usul Kanunu",
+      "periodDescription": "Mayıs 2026 Dönemi",
       "subject": "Berat",
       "startDateBeforeStopDate": true
     },
