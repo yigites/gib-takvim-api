@@ -1,23 +1,11 @@
 {
   "metadata": {
-    "fetchedAt": "03-08-2026",
-    "requestedDay": "03-08-2026",
-    "totalItems": 51,
+    "fetchedAt": "10-08-2026",
+    "requestedDay": "10-08-2026",
+    "totalItems": 50,
     "pageSize": 1000
   },
   "items": [
-    {
-      "id": 7949,
-      "title": "Noterlerce Yapılan Makbuz Karşılığı Ödemelerin Beyan ve Ödemesi",
-      "description": "Temmuz 2026 Dönemine Ait Noterlerce Yapılan Makbuz Karşılığı Ödemelere Ait Beyannamenin Verilmesi ve Ödemesi",
-      "startdate": "03-08-2026",
-      "stopdate": "07-08-2026",
-      "priority": 2,
-      "taxType": "Noterlerce Tahsil Edilen Vergi Resim ve Harçlar ile Değerli Kağıt Bedelleri",
-      "periodDescription": "Temmuz 2026 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
     {
       "id": 7862,
       "title": "Elektronik Defter Beratları",
@@ -52,18 +40,6 @@
       "taxType": "Vergi Usul Kanunu",
       "periodDescription": "Nisan 2026 Dönemi",
       "subject": "Berat",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 7957,
-      "title": "Ticaret Sicili Harçları Bildirim ve Ödemesi",
-      "description": "Temmuz 2026 Dönemine Ait Ticaret Sicili Harçları Bildirimi Verilmesi ve Ödemesi",
-      "startdate": "01-08-2026",
-      "stopdate": "17-08-2026",
-      "priority": 2,
-      "taxType": "Harçlar Kanunu",
-      "periodDescription": "Temmuz 2026 Dönemi",
-      "subject": "Bildirim ve Ödeme",
       "startDateBeforeStopDate": true
     },
     {
@@ -184,6 +160,18 @@
       "taxType": "Kurum Geçici Vergisi",
       "periodDescription": "2026 II.. Geçici Vergi Dönemi (Nisan-Mayıs-Haziran)",
       "subject": "Beyan ve Ödeme",
+      "startDateBeforeStopDate": true
+    },
+    {
+      "id": 7957,
+      "title": "Ticaret Sicili Harçları Bildirim ve Ödemesi",
+      "description": "Temmuz 2026 Dönemine Ait Ticaret Sicili Harçları Bildirimi Verilmesi ve Ödemesi",
+      "startdate": "01-08-2026",
+      "stopdate": "17-08-2026",
+      "priority": 2,
+      "taxType": "Harçlar Kanunu",
+      "periodDescription": "Temmuz 2026 Dönemi",
+      "subject": "Bildirim ve Ödeme",
       "startDateBeforeStopDate": true
     },
     {
