@@ -1,80 +1,20 @@
 {
   "metadata": {
-    "fetchedAt": "07-09-2026",
-    "requestedDay": "07-09-2026",
-    "totalItems": 47,
+    "fetchedAt": "14-09-2026",
+    "requestedDay": "14-09-2026",
+    "totalItems": 41,
     "pageSize": 1000
   },
   "items": [
     {
-      "id": 7984,
-      "title": "Noterlerce Yapılan Makbuz Karşılığı Ödemelerin Beyan ve Ödemesi",
-      "description": "Ağustos 2026 Dönemine Ait Noterlerce Yapılan Makbuz Karşılığı Ödemelere Ait Beyannamenin Verilmesi ve Ödemesi",
-      "startdate": "01-09-2026",
-      "stopdate": "07-09-2026",
-      "priority": 2,
-      "taxType": "Noterlerce Tahsil Edilen Vergi Resim ve Harçlar ile Değerli Kağıt Bedelleri",
-      "periodDescription": "Ağustos 2026 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 7899,
+      "id": 7945,
       "title": "Elektronik Defter Beratları",
-      "description": "Aylık Yükleme Tercihinde Bulunmuş Gelir Vergisi Mükelleflerinin Mayıs 2026 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
-      "startdate": "01-06-2026",
-      "stopdate": "10-09-2026",
-      "priority": 1,
-      "taxType": "Vergi Usul Kanunu",
-      "periodDescription": "Mayıs 2026 Dönemi",
-      "subject": "Berat",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 7900,
-      "title": "Elektronik Defter Beratları",
-      "description": "Geçici Vergi Dönemleri Bazında Yükleme Tercihinde Bulunmuş Gelir Vergisi Mükelleflerinin Mayıs 2026 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
-      "startdate": "01-06-2026",
-      "stopdate": "10-09-2026",
-      "priority": 1,
-      "taxType": "Vergi Usul Kanunu",
-      "periodDescription": "Mayıs 2026 Dönemi",
-      "subject": "Berat",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 7985,
-      "title": "Özel Tüketim Vergisi Beyan ve Ödemesi",
-      "description": "16-31 Ağustos 2026 Dönemine Ait Petrol ve Doğalgaz Ürünlerine İlişkin Özel Tüketim Vergisinin Beyanı ve Ödemesi",
-      "startdate": "01-09-2026",
-      "stopdate": "10-09-2026",
-      "priority": 1,
-      "taxType": "Özel Tüketim Vergisi",
-      "periodDescription": "16-31 Ağustos 2026 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 7944,
-      "title": "Elektronik Defter Beratları",
-      "description": "Geçici Vergi Dönemleri Bazında Yükleme Tercihinde Bulunmuş Gelir Vergisi Mükelleflerinin Haziran 2026 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
+      "description": "Geçici Vergi Dönemleri Bazında Yükleme Tercihinde Bulunmuş Diğer Mükelleflerin Haziran 2026 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
       "startdate": "01-07-2026",
-      "stopdate": "10-09-2026",
+      "stopdate": "14-09-2026",
       "priority": 1,
       "taxType": "Vergi Usul Kanunu",
       "periodDescription": "Haziran 2026 Dönemi",
-      "subject": "Berat",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 7864,
-      "title": "Elektronik Defter Beratları",
-      "description": "Geçici Vergi Dönemleri Bazında Yükleme Tercihinde Bulunmuş Gelir Vergisi Mükelleflerinin Nisan 2026 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
-      "startdate": "01-05-2026",
-      "stopdate": "10-09-2026",
-      "priority": 1,
-      "taxType": "Vergi Usul Kanunu",
-      "periodDescription": "Nisan 2026 Dönemi",
       "subject": "Berat",
       "startDateBeforeStopDate": true
     },
@@ -87,18 +27,6 @@
       "priority": 1,
       "taxType": "Vergi Usul Kanunu",
       "periodDescription": "Nisan 2026 Dönemi",
-      "subject": "Berat",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 7945,
-      "title": "Elektronik Defter Beratları",
-      "description": "Geçici Vergi Dönemleri Bazında Yükleme Tercihinde Bulunmuş Diğer Mükelleflerin Haziran 2026 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
-      "startdate": "01-07-2026",
-      "stopdate": "14-09-2026",
-      "priority": 1,
-      "taxType": "Vergi Usul Kanunu",
-      "periodDescription": "Haziran 2026 Dönemi",
       "subject": "Berat",
       "startDateBeforeStopDate": true
     },
@@ -127,25 +55,13 @@
       "startDateBeforeStopDate": true
     },
     {
-      "id": 7987,
-      "title": "Kaynak Kullanımını Destekleme Fonu K  Kullanımını Ödemesi",
-      "description": "Ağustos 2026 Dönemine Ait Kaynak Kullanımını Destekleme Fonu Kesintisi Bildirimi ve Ödemesi",
+      "id": 7989,
+      "title": "Özel Tüketim Vergisi Beyan ve Ödemesi",
+      "description": "Ağustos 2026 Dönemine Ait Alkollü İçecekler, Alkolsüz İçecekler, Tütün Mamulleri ve Makaronlara İlişkin Özel Tüketim Vergisinin Beyanı ve Ödemesi",
       "startdate": "01-09-2026",
       "stopdate": "15-09-2026",
-      "priority": 2,
-      "taxType": "Kaynak Kullanımını Destekleme Fonu ",
-      "periodDescription": "Ağustos 2026 Dönemi",
-      "subject": "Bildirim ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 7986,
-      "title": "Banka ve Sigorta Muameleleri Vergisi Beyan ve Ödemesi",
-      "description": "Ağustos 2026 Dönemine Ait Banka ve Sigorta Muameleleri Vergisinin Beyanı ve Ödemesi",
-      "startdate": "01-09-2026",
-      "stopdate": "15-09-2026",
-      "priority": 2,
-      "taxType": "Banka ve Sigorta Muameleleri Vergisi",
+      "priority": 1,
+      "taxType": "Özel Tüketim Vergisi",
       "periodDescription": "Ağustos 2026 Dönemi",
       "subject": "Beyan ve Ödeme",
       "startDateBeforeStopDate": true
@@ -163,9 +79,45 @@
       "startDateBeforeStopDate": true
     },
     {
-      "id": 7989,
+      "id": 7986,
+      "title": "Banka ve Sigorta Muameleleri Vergisi Beyan ve Ödemesi",
+      "description": "Ağustos 2026 Dönemine Ait Banka ve Sigorta Muameleleri Vergisinin Beyanı ve Ödemesi",
+      "startdate": "01-09-2026",
+      "stopdate": "15-09-2026",
+      "priority": 2,
+      "taxType": "Banka ve Sigorta Muameleleri Vergisi",
+      "periodDescription": "Ağustos 2026 Dönemi",
+      "subject": "Beyan ve Ödeme",
+      "startDateBeforeStopDate": true
+    },
+    {
+      "id": 7987,
+      "title": "Kaynak Kullanımını Destekleme Fonu K  Kullanımını Ödemesi",
+      "description": "Ağustos 2026 Dönemine Ait Kaynak Kullanımını Destekleme Fonu Kesintisi Bildirimi ve Ödemesi",
+      "startdate": "01-09-2026",
+      "stopdate": "15-09-2026",
+      "priority": 2,
+      "taxType": "Kaynak Kullanımını Destekleme Fonu ",
+      "periodDescription": "Ağustos 2026 Dönemi",
+      "subject": "Bildirim ve Ödeme",
+      "startDateBeforeStopDate": true
+    },
+    {
+      "id": 7992,
+      "title": "Özel İletişim Vergisi Beyan ve Ödemesi",
+      "description": "Ağustos 2026 Dönemine Ait Özel İletişim Vergisinin Beyanı ve Ödemesi",
+      "startdate": "01-09-2026",
+      "stopdate": "15-09-2026",
+      "priority": 2,
+      "taxType": "Özel İletişim Vergisi",
+      "periodDescription": "Ağustos 2026 Dönemi",
+      "subject": "Beyan ve Ödeme",
+      "startDateBeforeStopDate": true
+    },
+    {
+      "id": 7991,
       "title": "Özel Tüketim Vergisi Beyan ve Ödemesi",
-      "description": "Ağustos 2026 Dönemine Ait Alkollü İçecekler, Alkolsüz İçecekler, Tütün Mamulleri ve Makaronlara İlişkin Özel Tüketim Vergisinin Beyanı ve Ödemesi",
+      "description": "Ağustos 2026 Dönemine Ait Motorlu Taşıt Araçlarına İlişkin Özel Tüketim Vergisinin (Tescile Tabi Olmayanlar) Beyanı ve Ödemesi",
       "startdate": "01-09-2026",
       "stopdate": "15-09-2026",
       "priority": 1,
@@ -187,37 +139,13 @@
       "startDateBeforeStopDate": true
     },
     {
-      "id": 7991,
-      "title": "Özel Tüketim Vergisi Beyan ve Ödemesi",
-      "description": "Ağustos 2026 Dönemine Ait Motorlu Taşıt Araçlarına İlişkin Özel Tüketim Vergisinin (Tescile Tabi Olmayanlar) Beyanı ve Ödemesi",
-      "startdate": "01-09-2026",
-      "stopdate": "15-09-2026",
-      "priority": 1,
-      "taxType": "Özel Tüketim Vergisi",
-      "periodDescription": "Ağustos 2026 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 7992,
-      "title": "Özel İletişim Vergisi Beyan ve Ödemesi",
-      "description": "Ağustos 2026 Dönemine Ait Özel İletişim Vergisinin Beyanı ve Ödemesi",
-      "startdate": "01-09-2026",
-      "stopdate": "15-09-2026",
-      "priority": 2,
-      "taxType": "Özel İletişim Vergisi",
-      "periodDescription": "Ağustos 2026 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 7999,
-      "title": "Yangın Sigortası Vergisi Beyan ve Ödemesi",
-      "description": "Ağustos 2026 Dönemine Ait Yangın Sigortası Vergisinin Beyanı ve Ödemesi",
+      "id": 7998,
+      "title": "Elektrik ve Havagazı Tüketim Vergisi Beyan ve Ödemesi",
+      "description": "Ağustos 2026 Dönemine Ait Elektrik ve Havagazı Tüketim Vergisinin Beyanı ve Ödemesi",
       "startdate": "01-09-2026",
       "stopdate": "21-09-2026",
       "priority": 2,
-      "taxType": "Yangın Sigortası Vergisi",
+      "taxType": "Elektrik ve Havagazı Tüketim Vergisi",
       "periodDescription": "Ağustos 2026 Dönemi",
       "subject": "Beyan ve Ödeme",
       "startDateBeforeStopDate": true
@@ -283,13 +211,13 @@
       "startDateBeforeStopDate": true
     },
     {
-      "id": 7998,
-      "title": "Elektrik ve Havagazı Tüketim Vergisi Beyan ve Ödemesi",
-      "description": "Ağustos 2026 Dönemine Ait Elektrik ve Havagazı Tüketim Vergisinin Beyanı ve Ödemesi",
+      "id": 7999,
+      "title": "Yangın Sigortası Vergisi Beyan ve Ödemesi",
+      "description": "Ağustos 2026 Dönemine Ait Yangın Sigortası Vergisinin Beyanı ve Ödemesi",
       "startdate": "01-09-2026",
       "stopdate": "21-09-2026",
       "priority": 2,
-      "taxType": "Elektrik ve Havagazı Tüketim Vergisi",
+      "taxType": "Yangın Sigortası Vergisi",
       "periodDescription": "Ağustos 2026 Dönemi",
       "subject": "Beyan ve Ödeme",
       "startDateBeforeStopDate": true
@@ -307,37 +235,13 @@
       "startDateBeforeStopDate": true
     },
     {
-      "id": 8006,
-      "title": "Katma Değer Vergisinin Beyan ve Ödemesi",
-      "description": "Ağustos 2026 Dönemine Ait Katma Değer Vergisinin Beyanı ve Ödemesi",
+      "id": 8002,
+      "title": "Konaklama Vergisi Beyan ve Ödemesi",
+      "description": "Ağustos 2026 Dönemine Ait Konaklama Vergisinin Beyanı ve Ödemesi",
       "startdate": "01-09-2026",
       "stopdate": "28-09-2026",
-      "priority": 1,
-      "taxType": "Katma Değer Vergisi",
-      "periodDescription": "Ağustos 2026 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 8005,
-      "title": "Sürekli Mükellefiyette Makbuz Karşılığı Damga Vergisinin Beyan ve Ödemesi",
-      "description": "Ağustos 2026 Dönemine Ait Sürekli Mükellefiyeti Bulunanlar İçin Makbuz Karşılığı Ödenmesi Gereken Damga Vergisinin Beyanı ve Ödemesi",
-      "startdate": "01-09-2026",
-      "stopdate": "28-09-2026",
-      "priority": 1,
-      "taxType": "Damga Vergisi",
-      "periodDescription": "Ağustos 2026 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 8004,
-      "title": "İstihkaktan Kesinti Suretiyle Tahsil Edilen Damga Vergisinin  Beyan ve Ödemesi",
-      "description": "Ağustos 2026 Dönemine Ait İstihkaktan Kesinti Suretiyle Tahsil Edilen Damga Vergisinin Beyanı ve Ödemesi",
-      "startdate": "01-09-2026",
-      "stopdate": "28-09-2026",
-      "priority": 1,
-      "taxType": "Damga Vergisi",
+      "priority": 2,
+      "taxType": "Konaklama Vergisi",
       "periodDescription": "Ağustos 2026 Dönemi",
       "subject": "Beyan ve Ödeme",
       "startDateBeforeStopDate": true
@@ -355,13 +259,37 @@
       "startDateBeforeStopDate": true
     },
     {
-      "id": 8002,
-      "title": "Konaklama Vergisi Beyan ve Ödemesi",
-      "description": "Ağustos 2026 Dönemine Ait Konaklama Vergisinin Beyanı ve Ödemesi",
+      "id": 8004,
+      "title": "İstihkaktan Kesinti Suretiyle Tahsil Edilen Damga Vergisinin  Beyan ve Ödemesi",
+      "description": "Ağustos 2026 Dönemine Ait İstihkaktan Kesinti Suretiyle Tahsil Edilen Damga Vergisinin Beyanı ve Ödemesi",
       "startdate": "01-09-2026",
       "stopdate": "28-09-2026",
-      "priority": 2,
-      "taxType": "Konaklama Vergisi",
+      "priority": 1,
+      "taxType": "Damga Vergisi",
+      "periodDescription": "Ağustos 2026 Dönemi",
+      "subject": "Beyan ve Ödeme",
+      "startDateBeforeStopDate": true
+    },
+    {
+      "id": 8005,
+      "title": "Sürekli Mükellefiyette Makbuz Karşılığı Damga Vergisinin Beyan ve Ödemesi",
+      "description": "Ağustos 2026 Dönemine Ait Sürekli Mükellefiyeti Bulunanlar İçin Makbuz Karşılığı Ödenmesi Gereken Damga Vergisinin Beyanı ve Ödemesi",
+      "startdate": "01-09-2026",
+      "stopdate": "28-09-2026",
+      "priority": 1,
+      "taxType": "Damga Vergisi",
+      "periodDescription": "Ağustos 2026 Dönemi",
+      "subject": "Beyan ve Ödeme",
+      "startDateBeforeStopDate": true
+    },
+    {
+      "id": 8006,
+      "title": "Katma Değer Vergisinin Beyan ve Ödemesi",
+      "description": "Ağustos 2026 Dönemine Ait Katma Değer Vergisinin Beyanı ve Ödemesi",
+      "startdate": "01-09-2026",
+      "stopdate": "28-09-2026",
+      "priority": 1,
+      "taxType": "Katma Değer Vergisi",
       "periodDescription": "Ağustos 2026 Dönemi",
       "subject": "Beyan ve Ödeme",
       "startDateBeforeStopDate": true
@@ -376,18 +304,6 @@
       "taxType": "Vergi Usul Kanunu",
       "periodDescription": "Ağustos 2026 Dönemi",
       "subject": "Bildirim",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 8012,
-      "title": "7440 Sayılı Kanunun Taksit Ödemesi ",
-      "description": "7440 Sayılı Kanun Uyarınca Ödenmesi Gereken 40. Taksit Ödemesi",
-      "startdate": "01-09-2026",
-      "stopdate": "30-09-2026",
-      "priority": 1,
-      "taxType": "7440 Sayılı Kanun",
-      "periodDescription": "40. Taksit",
-      "subject": "Ödeme",
       "startDateBeforeStopDate": true
     },
     {
@@ -439,6 +355,18 @@
       "startDateBeforeStopDate": true
     },
     {
+      "id": 8012,
+      "title": "7440 Sayılı Kanunun Taksit Ödemesi ",
+      "description": "7440 Sayılı Kanun Uyarınca Ödenmesi Gereken 40. Taksit Ödemesi",
+      "startdate": "01-09-2026",
+      "stopdate": "30-09-2026",
+      "priority": 1,
+      "taxType": "7440 Sayılı Kanun",
+      "periodDescription": "40. Taksit",
+      "subject": "Ödeme",
+      "startDateBeforeStopDate": true
+    },
+    {
       "id": 7946,
       "title": "Elektronik Defter Beratları",
       "description": "Aylık Yükleme Tercihinde Bulunmuş Gelir Vergisi Mükelleflerinin Haziran 2026 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
@@ -487,18 +415,6 @@
       "startDateBeforeStopDate": true
     },
     {
-      "id": 8013,
-      "title": "Elektronik Defter Beratları",
-      "description": "Aylık Yükleme Tercihinde Bulunmuş Gelir Vergisi Mükelleflerinin Ağustos 2026 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
-      "startdate": "01-09-2026",
-      "stopdate": "10-12-2026",
-      "priority": 1,
-      "taxType": "Vergi Usul Kanunu",
-      "periodDescription": "Ağustos 2026 Dönemi",
-      "subject": "Berat",
-      "startDateBeforeStopDate": true
-    },
-    {
       "id": 7982,
       "title": "Elektronik Defter Beratları",
       "description": "Geçici Vergi Dönemleri Bazında Yükleme Tercihinde Bulunmuş Gelir Vergisi Mükelleflerinin Temmuz 2026 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
@@ -523,11 +439,11 @@
       "startDateBeforeStopDate": true
     },
     {
-      "id": 8016,
+      "id": 8013,
       "title": "Elektronik Defter Beratları",
-      "description": "Geçici Vergi Dönemleri Bazında Yükleme Tercihinde Bulunmuş Diğer Mükelleflerin Ağustos 2026 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
+      "description": "Aylık Yükleme Tercihinde Bulunmuş Gelir Vergisi Mükelleflerinin Ağustos 2026 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
       "startdate": "01-09-2026",
-      "stopdate": "14-12-2026",
+      "stopdate": "10-12-2026",
       "priority": 1,
       "taxType": "Vergi Usul Kanunu",
       "periodDescription": "Ağustos 2026 Dönemi",
@@ -550,6 +466,18 @@
       "id": 8015,
       "title": "Elektronik Defter Beratları",
       "description": "Aylık Yükleme Tercihinde Bulunmuş Diğer Mükelleflerin Ağustos 2026 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
+      "startdate": "01-09-2026",
+      "stopdate": "14-12-2026",
+      "priority": 1,
+      "taxType": "Vergi Usul Kanunu",
+      "periodDescription": "Ağustos 2026 Dönemi",
+      "subject": "Berat",
+      "startDateBeforeStopDate": true
+    },
+    {
+      "id": 8016,
+      "title": "Elektronik Defter Beratları",
+      "description": "Geçici Vergi Dönemleri Bazında Yükleme Tercihinde Bulunmuş Diğer Mükelleflerin Ağustos 2026 Dönemine Ait Elektronik Defter Beratlarının Yüklenmesi",
       "startdate": "01-09-2026",
       "stopdate": "14-12-2026",
       "priority": 1,
