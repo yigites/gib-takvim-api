@@ -1,20 +1,20 @@
 {
   "metadata": {
-    "fetchedAt": "05-10-2026",
-    "requestedDay": "05-10-2026",
-    "totalItems": 51,
+    "fetchedAt": "12-10-2026",
+    "requestedDay": "12-10-2026",
+    "totalItems": 50,
     "pageSize": 1000
   },
   "items": [
     {
-      "id": 8017,
-      "title": "Noterlerce Yapılan Makbuz Karşılığı Ödemelerin Beyan ve Ödemesi",
-      "description": "Eylül 2026 Dönemine Ait Noterlerce Yapılan Makbuz Karşılığı Ödemelere Ait Beyannamenin Verilmesi ve Ödemesi",
+      "id": 8018,
+      "title": "Özel Tüketim Vergisi Beyan ve Ödemesi",
+      "description": "16-30 Eylül 2026 Dönemine Ait Petrol ve Doğalgaz Ürünlerine İlişkin Özel Tüketim Vergisinin Beyanı ve Ödemesi",
       "startdate": "01-10-2026",
-      "stopdate": "07-10-2026",
-      "priority": 2,
-      "taxType": "Noterlerce Tahsil Edilen Vergi Resim ve Harçlar ile Değerli Kağıt Bedelleri",
-      "periodDescription": "Eylül 2026 Dönemi",
+      "stopdate": "12-10-2026",
+      "priority": 1,
+      "taxType": "Özel Tüketim Vergisi",
+      "periodDescription": "16-30 Eylül 2026 Dönemi",
       "subject": "Beyan ve Ödeme",
       "startDateBeforeStopDate": true
     },
@@ -28,18 +28,6 @@
       "taxType": "Vergi Usul Kanunu",
       "periodDescription": "Haziran 2026 Dönemi",
       "subject": "Berat",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 8018,
-      "title": "Özel Tüketim Vergisi Beyan ve Ödemesi",
-      "description": "16-30 Eylül 2026 Dönemine Ait Petrol ve Doğalgaz Ürünlerine İlişkin Özel Tüketim Vergisinin Beyanı ve Ödemesi",
-      "startdate": "01-10-2026",
-      "stopdate": "12-10-2026",
-      "priority": 1,
-      "taxType": "Özel Tüketim Vergisi",
-      "periodDescription": "16-30 Eylül 2026 Dönemi",
-      "subject": "Beyan ve Ödeme",
       "startDateBeforeStopDate": true
     },
     {
@@ -151,6 +139,18 @@
       "startDateBeforeStopDate": true
     },
     {
+      "id": 8031,
+      "title": "Elektrik ve Havagazı Tüketim Vergisi Beyan ve Ödemesi",
+      "description": "Eylül 2026 Dönemine Ait Elektrik ve Havagazı Tüketim Vergisinin Beyanı ve Ödemesi",
+      "startdate": "01-10-2026",
+      "stopdate": "20-10-2026",
+      "priority": 2,
+      "taxType": "Elektrik ve Havagazı Tüketim Vergisi",
+      "periodDescription": "Eylül 2026 Dönemi",
+      "subject": "Beyan ve Ödeme",
+      "startDateBeforeStopDate": true
+    },
+    {
       "id": 8030,
       "title": "Diğer Eğlence Vergilerine İlişkin Eğlence Vergisinin Ödemesi",
       "description": "Eylül 2026 Dönemine Ait Diğer Eğlence Vergilerine İlişkin Eğlence Vergisinin Ödemesi",
@@ -206,18 +206,6 @@
       "stopdate": "20-10-2026",
       "priority": 2,
       "taxType": "Şans Oyunları Vergisi",
-      "periodDescription": "Eylül 2026 Dönemi",
-      "subject": "Beyan ve Ödeme",
-      "startDateBeforeStopDate": true
-    },
-    {
-      "id": 8031,
-      "title": "Elektrik ve Havagazı Tüketim Vergisi Beyan ve Ödemesi",
-      "description": "Eylül 2026 Dönemine Ait Elektrik ve Havagazı Tüketim Vergisinin Beyanı ve Ödemesi",
-      "startdate": "01-10-2026",
-      "stopdate": "20-10-2026",
-      "priority": 2,
-      "taxType": "Elektrik ve Havagazı Tüketim Vergisi",
       "periodDescription": "Eylül 2026 Dönemi",
       "subject": "Beyan ve Ödeme",
       "startDateBeforeStopDate": true
